@@ -1,0 +1,461 @@
+2025/9/24 13:43:26:990 [DisplayControl] Enter ObtainControlHandler1
+2025/9/24 13:43:26:990 [DisplayControl] GetVideoPortCommander
+2025/9/24 13:43:26:990 [DisplayControl] GetUSBHubCommander
+2025/9/24 13:43:26:990 ====== List p_lpo_display_info_video_port, # of devices is ======1
+2025/9/24 13:43:26:990 [DisplayControl] index of p_lpo_display_info_video_port0
+2025/9/24 13:43:26:990 [DisplayControl] Model name from VideoPort = 
+2025/9/24 13:43:26:990 [DisplayControl] SN from VideoPort = 
+2025/9/24 13:43:26:990 ====== List p_lpo_display_info_rtd_scalar_rts_hub, # of devices is ======0
+2025/9/24 13:43:26:990 [DisplayControl] GetVSRtkHubControlClientListener
+2025/9/24 13:43:26:990 [DisplayControl] max monitor count = 1
+2025/9/24 13:43:26:990 [DisplayControl] index of display_info_vec = 0
+2025/9/24 13:43:26:990 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/9/24 13:43:26:990 [DisplayControl] VideoPortMatchingRule
+2025/9/24 13:43:26:990 [DisplayControl] monitor display_info_model_name = 
+2025/9/24 13:43:26:990 [DisplayControl] monitor video_port_model_name = 
+2025/9/24 13:43:26:990 [DisplayControl] monitor display_info_sn = 
+2025/9/24 13:43:26:990 [DisplayControl] monitor video_port_sn = 
+2025/9/24 13:43:26:990 [DisplayControl] model_name_match = 1
+2025/9/24 13:43:26:990 [DisplayControl] sn_match = 1
+2025/9/24 13:43:26:990 [DisplayControl] video_port is_match = 1
+2025/9/24 13:43:26:990 [DisplayControl] i = 0
+2025/9/24 13:43:26:992 [DisplayControl] Enter OperationThread::OperationThread()
+2025/9/24 13:43:26:992 [DisplayControl] Enter OperationThread::CreateThread
+2025/9/24 13:43:26:992 [DisplayControl] new DisplayFunctioner
+2025/9/24 13:43:26:992 [DisplayControl] insert displayer_vector
+2025/9/24 13:43:26:992 [DisplayControl] insert modelName_SN_to_Display_map
+2025/9/24 13:43:26:992 [DisplayControl] monitor size = 1
+2025/9/24 13:43:26:992 [DisplayControl] Exit ObtainControlHandler
+2025/9/24 13:43:26:992 [DisplayControl] OperationThread's while loop, queue size = 0
+2025/9/24 13:43:43:523 [DisplayControl] Enter OperationThread::ExitThread
+2025/9/24 13:43:43:524 [DisplayControl] Queue pop(), size = 0
+2025/9/24 13:43:43:524 [DisplayControl] Exit OperationThread::ExitThread
+2025/9/24 13:43:43:524 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/9/24 13:43:43:524 [DisplayControl] Enter OperationThread::ExitThread
+2025/9/24 13:43:43:638 [DbgStr] After calling display_control_client_listener_video_port_.UpdateAllDisplayPath()
+2025/9/24 13:43:43:743 [DbgStr] After calling display_control_client_listener_.GetAllDisplayEDID()
+2025/9/24 13:43:44:10 [DisplayControl] Version = 3.0.3.1
+2025/9/24 13:43:44:10 [DisplayControl] Enter ObtainControlHandler1
+2025/9/24 13:43:44:10 [DisplayControl] GetVideoPortCommander
+2025/9/24 13:43:44:10 [DisplayControl] GetUSBHubCommander
+2025/9/24 13:43:44:10 ====== List p_lpo_display_info_video_port, # of devices is ======2
+2025/9/24 13:43:44:10 [DisplayControl] index of p_lpo_display_info_video_port0
+2025/9/24 13:43:44:10 [DisplayControl] Model name from VideoPort = 
+2025/9/24 13:43:44:10 [DisplayControl] SN from VideoPort = 
+2025/9/24 13:43:44:10 [DisplayControl] index of p_lpo_display_info_video_port1
+2025/9/24 13:43:44:10 [DisplayControl] Model name from VideoPort = VG245
+2025/9/24 13:43:44:10 [DisplayControl] SN from VideoPort = XF5241421067
+2025/9/24 13:43:44:10 ====== List p_lpo_display_info_rtd_scalar_rts_hub, # of devices is ======0
+2025/9/24 13:43:44:10 [DisplayControl] GetVSRtkHubControlClientListener
+2025/9/24 13:43:44:10 [DisplayControl] max monitor count = 2
+2025/9/24 13:43:44:10 [DisplayControl] index of display_info_vec = 0
+2025/9/24 13:43:44:10 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/9/24 13:43:44:10 [DisplayControl] VideoPortMatchingRule
+2025/9/24 13:43:44:10 [DisplayControl] monitor display_info_model_name = 
+2025/9/24 13:43:44:10 [DisplayControl] monitor video_port_model_name = 
+2025/9/24 13:43:44:10 [DisplayControl] monitor display_info_sn = 
+2025/9/24 13:43:44:10 [DisplayControl] monitor video_port_sn = 
+2025/9/24 13:43:44:10 [DisplayControl] model_name_match = 1
+2025/9/24 13:43:44:10 [DisplayControl] sn_match = 1
+2025/9/24 13:43:44:10 [DisplayControl] video_port is_match = 1
+2025/9/24 13:43:44:10 [DisplayControl] index of display_info_vec = 1
+2025/9/24 13:43:44:10 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/9/24 13:43:44:10 [DisplayControl] VideoPortMatchingRule
+2025/9/24 13:43:44:10 [DisplayControl] monitor display_info_model_name = VG245
+2025/9/24 13:43:44:10 [DisplayControl] monitor video_port_model_name = 
+2025/9/24 13:43:44:10 [DisplayControl] monitor display_info_sn = XF5241421067
+2025/9/24 13:43:44:10 [DisplayControl] monitor video_port_sn = 
+2025/9/24 13:43:44:10 [DisplayControl] model_name_match = 0
+2025/9/24 13:43:44:10 [DisplayControl] sn_match = 0
+2025/9/24 13:43:44:10 [DisplayControl] video_port is_match = 0
+2025/9/24 13:43:44:10 [DisplayControl] index of display_info_vec = 1
+2025/9/24 13:43:44:10 [DisplayControl] index of p_lpo_display_info_video_port = 1
+2025/9/24 13:43:44:10 [DisplayControl] VideoPortMatchingRule
+2025/9/24 13:43:44:10 [DisplayControl] monitor display_info_model_name = VG245
+2025/9/24 13:43:44:10 [DisplayControl] monitor video_port_model_name = VG245
+2025/9/24 13:43:44:10 [DisplayControl] monitor display_info_sn = XF5241421067
+2025/9/24 13:43:44:10 [DisplayControl] monitor video_port_sn = XF5241421067
+2025/9/24 13:43:44:10 [DisplayControl] model_name_match = 1
+2025/9/24 13:43:44:10 [DisplayControl] sn_match = 1
+2025/9/24 13:43:44:10 [DisplayControl] video_port is_match = 1
+2025/9/24 13:43:44:10 [DisplayControl] i = 0
+2025/9/24 13:43:44:12 [DisplayControl] Enter OperationThread::OperationThread()
+2025/9/24 13:43:44:12 [DisplayControl] Enter OperationThread::CreateThread
+2025/9/24 13:43:44:12 [DisplayControl] new DisplayFunctioner
+2025/9/24 13:43:44:12 [DisplayControl] insert displayer_vector
+2025/9/24 13:43:44:12 [DisplayControl] insert modelName_SN_to_Display_map
+2025/9/24 13:43:44:12 [DisplayControl] i = 1
+2025/9/24 13:43:44:12 [DisplayControl] OperationThread's while loop, queue size = 0
+2025/9/24 13:43:44:12 [DisplayControl] Enter OperationThread::OperationThread()
+2025/9/24 13:43:44:12 [DisplayControl] Enter OperationThread::CreateThread
+2025/9/24 13:43:44:12 [DisplayControl] new DisplayFunctioner
+2025/9/24 13:43:44:12 [DisplayControl] insert displayer_vector
+2025/9/24 13:43:44:12 [DisplayControl] insert modelName_SN_to_Display_map
+2025/9/24 13:43:44:12 [DisplayControl] monitor size = 2
+2025/9/24 13:43:44:12 [DisplayControl] Exit ObtainControlHandler
+2025/9/24 13:43:44:12 [DisplayControl] OperationThread's while loop, queue size = 0
+2025/9/24 13:43:44:12 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 16
+2025/9/24 13:43:44:12 [DisplayControl] Queue push, size = 1
+2025/9/24 13:43:44:12 [DisplayControl] Queue pop(), size = 0
+2025/9/24 13:43:44:326 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/9/24 13:43:44:326 [DisplayControl] Queue push, size = 1
+2025/9/24 13:43:44:381 [DisplayControl] OperationThread's while loop, queue size = 1
+2025/9/24 13:43:44:381 [DisplayControl] Queue pop(), size = 0
+2025/9/24 13:43:44:700 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 51
+2025/9/24 13:43:44:700 [DisplayControl] Queue push, size = 1
+2025/9/24 13:43:44:700 [DisplayControl] Queue pop(), size = 0
+2025/9/24 13:43:44:753 [DisplayControl] OperationThread's while loop, queue size = 0
+2025/9/24 13:43:47:534 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/9/24 13:43:47:535 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 135
+2025/9/24 13:43:47:535 [DisplayControl] Queue push, size = 1
+2025/9/24 13:43:47:535 [DisplayControl] Queue pop(), size = 0
+2025/9/24 13:43:47:589 [DisplayControl] OperationThread's while loop, queue size = 0
+2025/9/24 13:43:47:852 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/9/24 13:43:47:907 [DisplayControl] OperationThread's while loop, queue size = 0
+2025/9/24 13:43:47:957 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 43
+2025/9/24 13:43:47:957 [DisplayControl] Queue push, size = 1
+2025/9/24 13:43:47:957 [DisplayControl] Queue pop(), size = 0
+2025/9/24 13:43:48:273 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/9/24 13:43:48:328 [DisplayControl] OperationThread's while loop, queue size = 0
+2025/9/24 13:43:48:381 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 236
+2025/9/24 13:43:48:381 [DisplayControl] Queue push, size = 1
+2025/9/24 13:43:48:381 [DisplayControl] Queue pop(), size = 0
+2025/9/24 13:43:48:699 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/9/24 13:43:48:754 [DisplayControl] OperationThread's while loop, queue size = 0
+2025/9/24 13:43:48:804 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 226
+2025/9/24 13:43:48:804 [DisplayControl] Queue push, size = 1
+2025/9/24 13:43:48:804 [DisplayControl] Queue pop(), size = 0
+2025/9/24 13:43:49:117 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/9/24 13:43:49:172 [DisplayControl] OperationThread's while loop, queue size = 0
+2025/9/24 13:43:49:223 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 51
+2025/9/24 13:43:49:223 [DisplayControl] Queue push, size = 1
+2025/9/24 13:43:49:223 [DisplayControl] Queue pop(), size = 0
+2025/9/24 13:43:49:540 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/9/24 13:43:49:595 [DisplayControl] OperationThread's while loop, queue size = 0
+2025/9/24 13:43:49:646 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 96
+2025/9/24 13:43:49:646 [DisplayControl] Queue push, size = 1
+2025/9/24 13:43:49:646 [DisplayControl] Queue pop(), size = 0
+2025/9/24 13:43:49:964 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/9/24 13:43:50:19 [DisplayControl] OperationThread's while loop, queue size = 0
+2025/9/24 13:43:50:69 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 4
+2025/9/24 13:43:50:69 [DisplayControl] Queue push, size = 1
+2025/9/24 13:43:50:69 [DisplayControl] Queue pop(), size = 0
+2025/9/24 13:43:50:386 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/9/24 13:43:50:441 [DisplayControl] OperationThread's while loop, queue size = 0
+2025/9/24 13:43:50:491 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 141
+2025/9/24 13:43:50:491 [DisplayControl] Queue push, size = 1
+2025/9/24 13:43:50:491 [DisplayControl] Queue pop(), size = 0
+2025/9/24 13:43:50:809 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/9/24 13:43:50:864 [DisplayControl] OperationThread's while loop, queue size = 0
+2025/9/24 13:43:50:914 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 98
+2025/9/24 13:43:50:914 [DisplayControl] Queue push, size = 1
+2025/9/24 13:43:50:914 [DisplayControl] Queue pop(), size = 0
+2025/9/24 13:43:51:228 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/9/24 13:43:51:283 [DisplayControl] OperationThread's while loop, queue size = 0
+2025/9/24 13:43:51:333 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 97
+2025/9/24 13:43:51:333 [DisplayControl] Queue push, size = 1
+2025/9/24 13:43:51:333 [DisplayControl] Queue pop(), size = 0
+2025/9/24 13:43:51:652 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/9/24 13:43:51:707 [DisplayControl] OperationThread's while loop, queue size = 0
+2025/9/24 13:43:51:757 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 220
+2025/9/24 13:43:51:757 [DisplayControl] Queue push, size = 1
+2025/9/24 13:43:51:757 [DisplayControl] Queue pop(), size = 0
+2025/9/24 13:43:52:74 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/9/24 13:43:52:129 [DisplayControl] OperationThread's while loop, queue size = 0
+2025/9/24 13:43:52:180 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 16
+2025/9/24 13:43:52:180 [DisplayControl] Queue push, size = 1
+2025/9/24 13:43:52:180 [DisplayControl] Queue pop(), size = 0
+2025/9/24 13:43:52:497 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/9/24 13:43:52:552 [DisplayControl] OperationThread's while loop, queue size = 0
+2025/9/24 13:43:52:602 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 18
+2025/9/24 13:43:52:602 [DisplayControl] Queue push, size = 1
+2025/9/24 13:43:52:602 [DisplayControl] Queue pop(), size = 0
+2025/9/24 13:43:52:919 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/9/24 13:43:52:974 [DisplayControl] OperationThread's while loop, queue size = 0
+2025/9/24 13:43:53:24 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 51
+2025/9/24 13:43:53:24 [DisplayControl] Queue push, size = 1
+2025/9/24 13:43:53:24 [DisplayControl] Queue pop(), size = 0
+2025/9/24 13:43:53:657 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/9/24 13:43:53:659 [DisplayControl] Queue push, size = 1
+2025/9/24 13:43:53:712 [DisplayControl] OperationThread's while loop, queue size = 1
+2025/9/24 13:43:53:712 [DisplayControl] Queue pop(), size = 0
+2025/9/24 13:43:54:83 [DisplayControl] OperationThread's while loop, queue size = 0
+2025/9/24 13:44:0:469 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 16
+2025/9/24 13:44:0:469 [DisplayControl] Queue push, size = 1
+2025/9/24 13:44:0:469 [DisplayControl] Queue pop(), size = 0
+2025/9/24 13:44:1:103 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/9/24 13:44:1:158 [DisplayControl] OperationThread's while loop, queue size = 0
+2025/9/24 13:44:51:72 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 16
+2025/9/24 13:44:51:73 [DisplayControl] Queue push, size = 1
+2025/9/24 13:44:51:73 [DisplayControl] Queue pop(), size = 0
+2025/9/24 13:44:51:712 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/9/24 13:44:51:767 [DisplayControl] OperationThread's while loop, queue size = 0
+2025/9/24 14:22:49:702 [DisplayControl] Enter OperationThread::ExitThread
+2025/9/24 14:22:49:703 [DisplayControl] Queue pop(), size = 0
+2025/9/24 14:22:49:703 [DisplayControl] Exit OperationThread::ExitThread
+2025/9/24 14:22:49:703 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/9/24 14:22:49:703 [DisplayControl] Enter OperationThread::ExitThread
+2025/9/24 14:22:49:703 [DisplayControl] Enter OperationThread::ExitThread
+2025/9/24 14:22:49:703 [DisplayControl] Queue pop(), size = 0
+2025/9/24 14:22:49:706 [DisplayControl] Exit OperationThread::ExitThread
+2025/9/24 14:22:49:706 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/9/24 14:22:49:706 [DisplayControl] Enter OperationThread::ExitThread
+2025/9/24 14:22:49:826 [DbgStr] After calling display_control_client_listener_video_port_.UpdateAllDisplayPath()
+2025/9/24 14:22:49:938 [DbgStr] After calling display_control_client_listener_.GetAllDisplayEDID()
+2025/9/24 14:22:49:944 [DisplayControl] Version = 3.0.3.1
+2025/9/24 14:22:49:944 [DisplayControl] Enter ObtainControlHandler1
+2025/9/24 14:22:49:944 [DisplayControl] GetVideoPortCommander
+2025/9/24 14:22:49:944 [DisplayControl] GetUSBHubCommander
+2025/9/24 14:22:49:944 ====== List p_lpo_display_info_video_port, # of devices is ======1
+2025/9/24 14:22:49:944 [DisplayControl] index of p_lpo_display_info_video_port0
+2025/9/24 14:22:49:944 [DisplayControl] Model name from VideoPort = 
+2025/9/24 14:22:49:944 [DisplayControl] SN from VideoPort = 
+2025/9/24 14:22:49:944 ====== List p_lpo_display_info_rtd_scalar_rts_hub, # of devices is ======0
+2025/9/24 14:22:49:944 [DisplayControl] GetVSRtkHubControlClientListener
+2025/9/24 14:22:49:944 [DisplayControl] max monitor count = 1
+2025/9/24 14:22:49:944 [DisplayControl] index of display_info_vec = 0
+2025/9/24 14:22:49:944 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/9/24 14:22:49:944 [DisplayControl] VideoPortMatchingRule
+2025/9/24 14:22:49:944 [DisplayControl] monitor display_info_model_name = 
+2025/9/24 14:22:49:944 [DisplayControl] monitor video_port_model_name = 
+2025/9/24 14:22:49:944 [DisplayControl] monitor display_info_sn = 
+2025/9/24 14:22:49:944 [DisplayControl] monitor video_port_sn = 
+2025/9/24 14:22:49:944 [DisplayControl] model_name_match = 1
+2025/9/24 14:22:49:944 [DisplayControl] sn_match = 1
+2025/9/24 14:22:49:944 [DisplayControl] video_port is_match = 1
+2025/9/24 14:22:49:944 [DisplayControl] i = 0
+2025/9/24 14:22:49:945 [DisplayControl] Enter OperationThread::OperationThread()
+2025/9/24 14:22:49:945 [DisplayControl] Enter OperationThread::CreateThread
+2025/9/24 14:22:49:945 [DisplayControl] new DisplayFunctioner
+2025/9/24 14:22:49:945 [DisplayControl] insert displayer_vector
+2025/9/24 14:22:49:945 [DisplayControl] insert modelName_SN_to_Display_map
+2025/9/24 14:22:49:945 [DisplayControl] monitor size = 1
+2025/9/24 14:22:49:946 [DisplayControl] Exit ObtainControlHandler
+2025/9/24 14:22:49:946 [DisplayControl] OperationThread's while loop, queue size = 0
+2025/9/24 16:25:57:228 [DisplayControl] Enter OperationThread::ExitThread
+2025/9/24 16:25:57:229 [DisplayControl] Queue pop(), size = 0
+2025/9/24 16:25:57:229 [DisplayControl] Exit OperationThread::ExitThread
+2025/9/24 16:25:57:229 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/9/24 16:25:57:229 [DisplayControl] Enter OperationThread::ExitThread
+2025/9/24 16:25:57:348 [DbgStr] After calling display_control_client_listener_video_port_.UpdateAllDisplayPath()
+2025/9/24 16:25:57:455 [DbgStr] After calling display_control_client_listener_.GetAllDisplayEDID()
+2025/9/24 16:25:57:461 [DisplayControl] Version = 3.0.3.1
+2025/9/24 16:25:57:461 [DisplayControl] Enter ObtainControlHandler1
+2025/9/24 16:25:57:461 [DisplayControl] GetVideoPortCommander
+2025/9/24 16:25:57:461 [DisplayControl] GetUSBHubCommander
+2025/9/24 16:25:57:461 ====== List p_lpo_display_info_video_port, # of devices is ======1
+2025/9/24 16:25:57:461 [DisplayControl] index of p_lpo_display_info_video_port0
+2025/9/24 16:25:57:461 [DisplayControl] Model name from VideoPort = 
+2025/9/24 16:25:57:461 [DisplayControl] SN from VideoPort = 
+2025/9/24 16:25:57:461 ====== List p_lpo_display_info_rtd_scalar_rts_hub, # of devices is ======0
+2025/9/24 16:25:57:461 [DisplayControl] GetVSRtkHubControlClientListener
+2025/9/24 16:25:57:461 [DisplayControl] max monitor count = 1
+2025/9/24 16:25:57:461 [DisplayControl] index of display_info_vec = 0
+2025/9/24 16:25:57:461 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/9/24 16:25:57:461 [DisplayControl] VideoPortMatchingRule
+2025/9/24 16:25:57:461 [DisplayControl] monitor display_info_model_name = 
+2025/9/24 16:25:57:461 [DisplayControl] monitor video_port_model_name = 
+2025/9/24 16:25:57:461 [DisplayControl] monitor display_info_sn = 
+2025/9/24 16:25:57:461 [DisplayControl] monitor video_port_sn = 
+2025/9/24 16:25:57:461 [DisplayControl] model_name_match = 1
+2025/9/24 16:25:57:461 [DisplayControl] sn_match = 1
+2025/9/24 16:25:57:461 [DisplayControl] video_port is_match = 1
+2025/9/24 16:25:57:461 [DisplayControl] i = 0
+2025/9/24 16:25:57:461 [DisplayControl] Enter OperationThread::OperationThread()
+2025/9/24 16:25:57:461 [DisplayControl] Enter OperationThread::CreateThread
+2025/9/24 16:25:57:461 [DisplayControl] new DisplayFunctioner
+2025/9/24 16:25:57:461 [DisplayControl] insert displayer_vector
+2025/9/24 16:25:57:461 [DisplayControl] insert modelName_SN_to_Display_map
+2025/9/24 16:25:57:461 [DisplayControl] monitor size = 1
+2025/9/24 16:25:57:461 [DisplayControl] Exit ObtainControlHandler
+2025/9/24 16:25:57:461 [DisplayControl] OperationThread's while loop, queue size = 0
+2025/9/26 13:16:54:817 [DisplayControl] Enter OperationThread::ExitThread
+2025/9/26 13:16:54:817 [DisplayControl] Queue pop(), size = 0
+2025/9/26 13:16:54:817 [DisplayControl] Exit OperationThread::ExitThread
+2025/9/26 13:16:54:817 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/9/26 13:16:54:817 [DisplayControl] Enter OperationThread::ExitThread
+2025/9/26 13:16:54:938 [DbgStr] After calling display_control_client_listener_video_port_.UpdateAllDisplayPath()
+2025/9/26 13:16:55:45 [DbgStr] After calling display_control_client_listener_.GetAllDisplayEDID()
+2025/9/26 13:16:55:51 [DisplayControl] Version = 3.0.3.1
+2025/9/26 13:16:55:51 [DisplayControl] Enter ObtainControlHandler1
+2025/9/26 13:16:55:51 [DisplayControl] GetVideoPortCommander
+2025/9/26 13:16:55:51 [DisplayControl] GetUSBHubCommander
+2025/9/26 13:16:55:51 ====== List p_lpo_display_info_video_port, # of devices is ======1
+2025/9/26 13:16:55:51 [DisplayControl] index of p_lpo_display_info_video_port0
+2025/9/26 13:16:55:51 [DisplayControl] Model name from VideoPort = 
+2025/9/26 13:16:55:51 [DisplayControl] SN from VideoPort = 
+2025/9/26 13:16:55:51 ====== List p_lpo_display_info_rtd_scalar_rts_hub, # of devices is ======0
+2025/9/26 13:16:55:51 [DisplayControl] GetVSRtkHubControlClientListener
+2025/9/26 13:16:55:51 [DisplayControl] max monitor count = 1
+2025/9/26 13:16:55:51 [DisplayControl] index of display_info_vec = 0
+2025/9/26 13:16:55:51 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/9/26 13:16:55:51 [DisplayControl] VideoPortMatchingRule
+2025/9/26 13:16:55:51 [DisplayControl] monitor display_info_model_name = 
+2025/9/26 13:16:55:51 [DisplayControl] monitor video_port_model_name = 
+2025/9/26 13:16:55:51 [DisplayControl] monitor display_info_sn = 
+2025/9/26 13:16:55:51 [DisplayControl] monitor video_port_sn = 
+2025/9/26 13:16:55:51 [DisplayControl] model_name_match = 1
+2025/9/26 13:16:55:51 [DisplayControl] sn_match = 1
+2025/9/26 13:16:55:51 [DisplayControl] video_port is_match = 1
+2025/9/26 13:16:55:51 [DisplayControl] i = 0
+2025/9/26 13:16:55:52 [DisplayControl] Enter OperationThread::OperationThread()
+2025/9/26 13:16:55:52 [DisplayControl] Enter OperationThread::CreateThread
+2025/9/26 13:16:55:52 [DisplayControl] new DisplayFunctioner
+2025/9/26 13:16:55:52 [DisplayControl] insert displayer_vector
+2025/9/26 13:16:55:52 [DisplayControl] insert modelName_SN_to_Display_map
+2025/9/26 13:16:55:52 [DisplayControl] monitor size = 1
+2025/9/26 13:16:55:52 [DisplayControl] Exit ObtainControlHandler
+2025/9/26 13:16:55:52 [DisplayControl] OperationThread's while loop, queue size = 0
+2025/9/26 14:45:54:604 [DisplayControl] Enter OperationThread::ExitThread
+2025/9/26 14:45:54:605 [DisplayControl] Queue pop(), size = 0
+2025/9/26 14:45:54:605 [DisplayControl] Exit OperationThread::ExitThread
+2025/9/26 14:45:54:605 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/9/26 14:45:54:605 [DisplayControl] Enter OperationThread::ExitThread
+2025/9/26 14:45:54:725 [DbgStr] After calling display_control_client_listener_video_port_.UpdateAllDisplayPath()
+2025/9/26 14:45:54:866 [DbgStr] After calling display_control_client_listener_.GetAllDisplayEDID()
+2025/9/26 14:45:54:908 [DisplayControl] Version = 3.0.3.1
+2025/9/26 14:45:54:908 [DisplayControl] Enter ObtainControlHandler1
+2025/9/26 14:45:54:908 [DisplayControl] GetVideoPortCommander
+2025/9/26 14:45:54:908 [DisplayControl] GetUSBHubCommander
+2025/9/26 14:45:54:908 ====== List p_lpo_display_info_video_port, # of devices is ======1
+2025/9/26 14:45:54:908 [DisplayControl] index of p_lpo_display_info_video_port0
+2025/9/26 14:45:54:909 [DisplayControl] Model name from VideoPort = 
+2025/9/26 14:45:54:909 [DisplayControl] SN from VideoPort = 
+2025/9/26 14:45:54:909 ====== List p_lpo_display_info_rtd_scalar_rts_hub, # of devices is ======0
+2025/9/26 14:45:54:909 [DisplayControl] GetVSRtkHubControlClientListener
+2025/9/26 14:45:54:909 [DisplayControl] max monitor count = 1
+2025/9/26 14:45:54:909 [DisplayControl] index of display_info_vec = 0
+2025/9/26 14:45:54:909 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/9/26 14:45:54:909 [DisplayControl] VideoPortMatchingRule
+2025/9/26 14:45:54:909 [DisplayControl] monitor display_info_model_name = 
+2025/9/26 14:45:54:909 [DisplayControl] monitor video_port_model_name = 
+2025/9/26 14:45:54:909 [DisplayControl] monitor display_info_sn = 
+2025/9/26 14:45:54:909 [DisplayControl] monitor video_port_sn = 
+2025/9/26 14:45:54:909 [DisplayControl] model_name_match = 1
+2025/9/26 14:45:54:909 [DisplayControl] sn_match = 1
+2025/9/26 14:45:54:909 [DisplayControl] video_port is_match = 1
+2025/9/26 14:45:54:909 [DisplayControl] i = 0
+2025/9/26 14:45:54:917 [DisplayControl] Enter OperationThread::OperationThread()
+2025/9/26 14:45:54:918 [DisplayControl] Enter OperationThread::CreateThread
+2025/9/26 14:45:54:918 [DisplayControl] new DisplayFunctioner
+2025/9/26 14:45:54:918 [DisplayControl] insert displayer_vector
+2025/9/26 14:45:54:918 [DisplayControl] insert modelName_SN_to_Display_map
+2025/9/26 14:45:54:918 [DisplayControl] monitor size = 1
+2025/9/26 14:45:54:918 [DisplayControl] Exit ObtainControlHandler
+2025/9/26 14:45:54:918 [DisplayControl] OperationThread's while loop, queue size = 0
+2025/9/30 10:1:36:186 [DisplayControl] Enter OperationThread::ExitThread
+2025/9/30 10:1:36:187 [DisplayControl] Queue pop(), size = 0
+2025/9/30 10:1:36:187 [DisplayControl] Exit OperationThread::ExitThread
+2025/9/30 10:1:36:187 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/9/30 10:1:36:187 [DisplayControl] Enter OperationThread::ExitThread
+2025/9/30 10:1:36:311 [DbgStr] After calling display_control_client_listener_video_port_.UpdateAllDisplayPath()
+2025/9/30 10:1:36:432 [DbgStr] After calling display_control_client_listener_.GetAllDisplayEDID()
+2025/9/30 10:1:36:467 [DisplayControl] Version = 3.0.3.1
+2025/9/30 10:1:36:468 [DisplayControl] Enter ObtainControlHandler1
+2025/9/30 10:1:36:468 [DisplayControl] GetVideoPortCommander
+2025/9/30 10:1:36:468 [DisplayControl] GetUSBHubCommander
+2025/9/30 10:1:36:468 ====== List p_lpo_display_info_video_port, # of devices is ======1
+2025/9/30 10:1:36:468 [DisplayControl] index of p_lpo_display_info_video_port0
+2025/9/30 10:1:36:468 [DisplayControl] Model name from VideoPort = 
+2025/9/30 10:1:36:468 [DisplayControl] SN from VideoPort = 
+2025/9/30 10:1:36:468 ====== List p_lpo_display_info_rtd_scalar_rts_hub, # of devices is ======0
+2025/9/30 10:1:36:468 [DisplayControl] GetVSRtkHubControlClientListener
+2025/9/30 10:1:36:468 [DisplayControl] max monitor count = 1
+2025/9/30 10:1:36:468 [DisplayControl] index of display_info_vec = 0
+2025/9/30 10:1:36:468 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/9/30 10:1:36:468 [DisplayControl] VideoPortMatchingRule
+2025/9/30 10:1:36:468 [DisplayControl] monitor display_info_model_name = 
+2025/9/30 10:1:36:468 [DisplayControl] monitor video_port_model_name = 
+2025/9/30 10:1:36:468 [DisplayControl] monitor display_info_sn = 
+2025/9/30 10:1:36:468 [DisplayControl] monitor video_port_sn = 
+2025/9/30 10:1:36:468 [DisplayControl] model_name_match = 1
+2025/9/30 10:1:36:468 [DisplayControl] sn_match = 1
+2025/9/30 10:1:36:468 [DisplayControl] video_port is_match = 1
+2025/9/30 10:1:36:468 [DisplayControl] i = 0
+2025/9/30 10:1:36:475 [DisplayControl] Enter OperationThread::OperationThread()
+2025/9/30 10:1:36:475 [DisplayControl] Enter OperationThread::CreateThread
+2025/9/30 10:1:36:475 [DisplayControl] new DisplayFunctioner
+2025/9/30 10:1:36:475 [DisplayControl] insert displayer_vector
+2025/9/30 10:1:36:475 [DisplayControl] insert modelName_SN_to_Display_map
+2025/9/30 10:1:36:475 [DisplayControl] monitor size = 1
+2025/9/30 10:1:36:475 [DisplayControl] Exit ObtainControlHandler
+2025/9/30 10:1:36:476 [DisplayControl] OperationThread's while loop, queue size = 0
+2025/9/30 10:3:26:335 [DisplayControl] Enter OperationThread::ExitThread
+2025/9/30 10:3:26:335 [DisplayControl] Queue pop(), size = 0
+2025/9/30 10:3:26:336 [DisplayControl] Exit OperationThread::ExitThread
+2025/9/30 10:3:26:336 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/9/30 10:3:26:336 [DisplayControl] Enter OperationThread::ExitThread
+2025/9/30 10:3:26:458 [DbgStr] After calling display_control_client_listener_video_port_.UpdateAllDisplayPath()
+2025/9/30 10:3:26:579 [DbgStr] After calling display_control_client_listener_.GetAllDisplayEDID()
+2025/9/30 10:3:26:625 [DisplayControl] Version = 3.0.3.1
+2025/9/30 10:3:26:625 [DisplayControl] Enter ObtainControlHandler1
+2025/9/30 10:3:26:625 [DisplayControl] GetVideoPortCommander
+2025/9/30 10:3:26:625 [DisplayControl] GetUSBHubCommander
+2025/9/30 10:3:26:625 ====== List p_lpo_display_info_video_port, # of devices is ======1
+2025/9/30 10:3:26:625 [DisplayControl] index of p_lpo_display_info_video_port0
+2025/9/30 10:3:26:625 [DisplayControl] Model name from VideoPort = 
+2025/9/30 10:3:26:625 [DisplayControl] SN from VideoPort = 
+2025/9/30 10:3:26:625 ====== List p_lpo_display_info_rtd_scalar_rts_hub, # of devices is ======0
+2025/9/30 10:3:26:625 [DisplayControl] GetVSRtkHubControlClientListener
+2025/9/30 10:3:26:625 [DisplayControl] max monitor count = 1
+2025/9/30 10:3:26:625 [DisplayControl] index of display_info_vec = 0
+2025/9/30 10:3:26:625 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/9/30 10:3:26:625 [DisplayControl] VideoPortMatchingRule
+2025/9/30 10:3:26:625 [DisplayControl] monitor display_info_model_name = 
+2025/9/30 10:3:26:625 [DisplayControl] monitor video_port_model_name = 
+2025/9/30 10:3:26:625 [DisplayControl] monitor display_info_sn = 
+2025/9/30 10:3:26:625 [DisplayControl] monitor video_port_sn = 
+2025/9/30 10:3:26:625 [DisplayControl] model_name_match = 1
+2025/9/30 10:3:26:626 [DisplayControl] sn_match = 1
+2025/9/30 10:3:26:626 [DisplayControl] video_port is_match = 1
+2025/9/30 10:3:26:626 [DisplayControl] i = 0
+2025/9/30 10:3:26:632 [DisplayControl] Enter OperationThread::OperationThread()
+2025/9/30 10:3:26:632 [DisplayControl] Enter OperationThread::CreateThread
+2025/9/30 10:3:26:633 [DisplayControl] new DisplayFunctioner
+2025/9/30 10:3:26:633 [DisplayControl] insert displayer_vector
+2025/9/30 10:3:26:633 [DisplayControl] insert modelName_SN_to_Display_map
+2025/9/30 10:3:26:633 [DisplayControl] monitor size = 1
+2025/9/30 10:3:26:633 [DisplayControl] Exit ObtainControlHandler
+2025/9/30 10:3:26:635 [DisplayControl] OperationThread's while loop, queue size = 0
+2025/9/30 11:46:56:288 [DisplayControl] Enter OperationThread::ExitThread
+2025/9/30 11:46:56:289 [DisplayControl] Queue pop(), size = 0
+2025/9/30 11:46:56:289 [DisplayControl] Exit OperationThread::ExitThread
+2025/9/30 11:46:56:289 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/9/30 11:46:56:289 [DisplayControl] Enter OperationThread::ExitThread
+2025/9/30 11:46:56:422 [DbgStr] After calling display_control_client_listener_video_port_.UpdateAllDisplayPath()
+2025/9/30 11:46:56:541 [DbgStr] After calling display_control_client_listener_.GetAllDisplayEDID()
+2025/9/30 11:46:56:580 [DisplayControl] Version = 3.0.3.1
+2025/9/30 11:46:56:581 [DisplayControl] Enter ObtainControlHandler1
+2025/9/30 11:46:56:581 [DisplayControl] GetVideoPortCommander
+2025/9/30 11:46:56:581 [DisplayControl] GetUSBHubCommander
+2025/9/30 11:46:56:581 ====== List p_lpo_display_info_video_port, # of devices is ======1
+2025/9/30 11:46:56:581 [DisplayControl] index of p_lpo_display_info_video_port0
+2025/9/30 11:46:56:581 [DisplayControl] Model name from VideoPort = 
+2025/9/30 11:46:56:581 [DisplayControl] SN from VideoPort = 
+2025/9/30 11:46:56:581 ====== List p_lpo_display_info_rtd_scalar_rts_hub, # of devices is ======0
+2025/9/30 11:46:56:581 [DisplayControl] GetVSRtkHubControlClientListener
+2025/9/30 11:46:56:581 [DisplayControl] max monitor count = 1
+2025/9/30 11:46:56:581 [DisplayControl] index of display_info_vec = 0
+2025/9/30 11:46:56:581 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/9/30 11:46:56:581 [DisplayControl] VideoPortMatchingRule
+2025/9/30 11:46:56:581 [DisplayControl] monitor display_info_model_name = 
+2025/9/30 11:46:56:581 [DisplayControl] monitor video_port_model_name = 
+2025/9/30 11:46:56:581 [DisplayControl] monitor display_info_sn = 
+2025/9/30 11:46:56:581 [DisplayControl] monitor video_port_sn = 
+2025/9/30 11:46:56:581 [DisplayControl] model_name_match = 1
+2025/9/30 11:46:56:581 [DisplayControl] sn_match = 1
+2025/9/30 11:46:56:581 [DisplayControl] video_port is_match = 1
+2025/9/30 11:46:56:581 [DisplayControl] i = 0
+2025/9/30 11:46:56:587 [DisplayControl] Enter OperationThread::OperationThread()
+2025/9/30 11:46:56:587 [DisplayControl] Enter OperationThread::CreateThread
+2025/9/30 11:46:56:587 [DisplayControl] new DisplayFunctioner
+2025/9/30 11:46:56:587 [DisplayControl] insert displayer_vector
+2025/9/30 11:46:56:587 [DisplayControl] insert modelName_SN_to_Display_map
+2025/9/30 11:46:56:587 [DisplayControl] monitor size = 1
+2025/9/30 11:46:56:587 [DisplayControl] Exit ObtainControlHandler
+2025/9/30 11:46:56:587 [DisplayControl] OperationThread's while loop, queue size = 0
+2025/9/30 14:43:24:537 [DisplayControl] Enter OperationThread::ExitThread
+2025/9/30 14:43:24:538 [DisplayControl] Queue pop(), size = 0
+2025/9/30 14:43:24:538 [DisplayControl] Exit OperationThread::ExitThread
+2025/9/30 14:43:24:538 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/9/30 14:43:24:538 [DisplayControl] Enter OperationThread::ExitThread
