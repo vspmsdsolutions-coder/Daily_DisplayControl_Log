@@ -1,0 +1,1041 @@
+2025/10/8 18:42:21:805 [DisplayControl] Enter ObtainControlHandler1
+2025/10/8 18:42:21:805 [DisplayControl] GetVideoPortCommander
+2025/10/8 18:42:21:805 [DisplayControl] GetUSBHubCommander
+2025/10/8 18:42:21:805 ====== List p_lpo_display_info_video_port, # of devices is ======2
+2025/10/8 18:42:21:805 [DisplayControl] index of p_lpo_display_info_video_port0
+2025/10/8 18:42:21:805 [DisplayControl] Model name from VideoPort = VG2748A
+2025/10/8 18:42:21:805 [DisplayControl] SN from VideoPort = TBC211800028
+2025/10/8 18:42:21:805 [DisplayControl] index of p_lpo_display_info_video_port1
+2025/10/8 18:42:21:805 [DisplayControl] Model name from VideoPort = 
+2025/10/8 18:42:21:805 [DisplayControl] SN from VideoPort = 
+2025/10/8 18:42:21:805 ====== List p_lpo_display_info_rtd_scalar_rts_hub, # of devices is ======0
+2025/10/8 18:42:21:805 [DisplayControl] GetVSRtkHubControlClientListener
+2025/10/8 18:42:21:805 [DisplayControl] max monitor count = 2
+2025/10/8 18:42:21:805 [DisplayControl] index of display_info_vec = 0
+2025/10/8 18:42:21:805 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/10/8 18:42:21:805 [DisplayControl] VideoPortMatchingRule
+2025/10/8 18:42:21:805 [DisplayControl] monitor display_info_model_name = 
+2025/10/8 18:42:21:805 [DisplayControl] monitor video_port_model_name = VG2748A
+2025/10/8 18:42:21:805 [DisplayControl] monitor display_info_sn = 
+2025/10/8 18:42:21:805 [DisplayControl] monitor video_port_sn = TBC211800028
+2025/10/8 18:42:21:805 [DisplayControl] model_name_match = 0
+2025/10/8 18:42:21:805 [DisplayControl] sn_match = 0
+2025/10/8 18:42:21:805 [DisplayControl] video_port is_match = 0
+2025/10/8 18:42:21:805 [DisplayControl] index of display_info_vec = 0
+2025/10/8 18:42:21:805 [DisplayControl] index of p_lpo_display_info_video_port = 1
+2025/10/8 18:42:21:805 [DisplayControl] VideoPortMatchingRule
+2025/10/8 18:42:21:805 [DisplayControl] monitor display_info_model_name = 
+2025/10/8 18:42:21:805 [DisplayControl] monitor video_port_model_name = 
+2025/10/8 18:42:21:805 [DisplayControl] monitor display_info_sn = 
+2025/10/8 18:42:21:805 [DisplayControl] monitor video_port_sn = 
+2025/10/8 18:42:21:805 [DisplayControl] model_name_match = 1
+2025/10/8 18:42:21:805 [DisplayControl] sn_match = 1
+2025/10/8 18:42:21:805 [DisplayControl] video_port is_match = 1
+2025/10/8 18:42:21:805 [DisplayControl] index of display_info_vec = 1
+2025/10/8 18:42:21:805 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/10/8 18:42:21:805 [DisplayControl] VideoPortMatchingRule
+2025/10/8 18:42:21:805 [DisplayControl] monitor display_info_model_name = VG2748A
+2025/10/8 18:42:21:805 [DisplayControl] monitor video_port_model_name = VG2748A
+2025/10/8 18:42:21:805 [DisplayControl] monitor display_info_sn = TBC211800028
+2025/10/8 18:42:21:805 [DisplayControl] monitor video_port_sn = TBC211800028
+2025/10/8 18:42:21:805 [DisplayControl] model_name_match = 1
+2025/10/8 18:42:21:805 [DisplayControl] sn_match = 1
+2025/10/8 18:42:21:805 [DisplayControl] video_port is_match = 1
+2025/10/8 18:42:21:805 [DisplayControl] i = 0
+2025/10/8 18:42:21:813 [DisplayControl] Enter OperationThread::OperationThread()
+2025/10/8 18:42:21:813 [DisplayControl] Enter OperationThread::CreateThread
+2025/10/8 18:42:21:813 [DisplayControl] new DisplayFunctioner
+2025/10/8 18:42:21:813 [DisplayControl] insert displayer_vector
+2025/10/8 18:42:21:813 [DisplayControl] insert modelName_SN_to_Display_map
+2025/10/8 18:42:21:813 [DisplayControl] i = 1
+2025/10/8 18:42:21:813 [DisplayControl] Enter OperationThread::OperationThread()
+2025/10/8 18:42:21:813 [DisplayControl] Enter OperationThread::CreateThread
+2025/10/8 18:42:21:813 [DisplayControl] new DisplayFunctioner
+2025/10/8 18:42:21:813 [DisplayControl] insert displayer_vector
+2025/10/8 18:42:21:813 [DisplayControl] insert modelName_SN_to_Display_map
+2025/10/8 18:42:21:813 [DisplayControl] monitor size = 2
+2025/10/8 18:42:21:813 [DisplayControl] Exit ObtainControlHandler
+2025/10/8 18:42:21:813 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 16
+2025/10/8 18:42:22:37 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:42:22:315 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 51
+2025/10/8 18:42:23:785 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 18:42:23:786 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 236
+2025/10/8 18:42:24:8 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:42:24:110 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 135
+2025/10/8 18:42:24:337 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:42:24:439 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 16
+2025/10/8 18:42:24:660 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:42:24:762 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 43
+2025/10/8 18:42:24:980 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:42:25:81 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 225
+2025/10/8 18:42:25:303 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:42:25:405 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 96
+2025/10/8 18:42:25:630 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:42:25:732 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 18
+2025/10/8 18:42:25:949 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:42:26:51 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 97
+2025/10/8 18:42:26:277 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:42:26:379 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 4
+2025/10/8 18:42:26:599 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:42:26:700 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 98
+2025/10/8 18:42:26:913 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:42:27:14 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 226
+2025/10/8 18:42:27:235 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:42:27:337 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 141
+2025/10/8 18:42:27:559 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:42:27:660 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 220
+2025/10/8 18:42:27:884 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:42:27:986 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 51
+2025/10/8 18:42:28:206 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:42:28:311 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 96
+2025/10/8 18:42:28:531 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:42:29:292 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 51
+2025/10/8 18:42:29:609 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 18:43:26:627 [DisplayControl] [DisplayerMac SetRotation] display_id = 2, angle = 0
+2025/10/8 18:43:26:628 [DisplayControl] [DisplayerMac SetRotation] degrees = 0
+2025/10/8 18:43:26:735 [DisplayControl] [DisplayerMac GetRotation] display_id = 2
+2025/10/8 18:43:26:735 [DisplayControl] [DisplayerMac GetRotation] rotation_degree = 0
+2025/10/8 18:43:26:735 [DisplayControl] [DisplayerMac GetRotation] angle = 0
+2025/10/8 18:43:26:735 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 4
+2025/10/8 18:43:28:179 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 18:43:33:289 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:43:33:289 [DisplayControl] Exit OperationThread::ExitThread
+2025/10/8 18:43:33:289 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/10/8 18:43:33:289 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:43:33:289 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:43:33:289 [DisplayControl] Exit OperationThread::ExitThread
+2025/10/8 18:43:33:289 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/10/8 18:43:33:289 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:43:33:396 [DbgStr] After calling display_control_client_listener_video_port_.UpdateAllDisplayPath()
+2025/10/8 18:43:33:504 [DbgStr] After calling display_control_client_listener_.GetAllDisplayEDID()
+2025/10/8 18:43:34:581 [DisplayControl] Version = 3.0.6.0
+2025/10/8 18:43:34:581 [DisplayControl] Enter ObtainControlHandler1
+2025/10/8 18:43:34:581 [DisplayControl] GetVideoPortCommander
+2025/10/8 18:43:34:581 [DisplayControl] GetUSBHubCommander
+2025/10/8 18:43:34:581 ====== List p_lpo_display_info_video_port, # of devices is ======2
+2025/10/8 18:43:34:581 [DisplayControl] index of p_lpo_display_info_video_port0
+2025/10/8 18:43:34:581 [DisplayControl] Model name from VideoPort = VG2748A
+2025/10/8 18:43:34:581 [DisplayControl] SN from VideoPort = TBC211800028
+2025/10/8 18:43:34:581 [DisplayControl] index of p_lpo_display_info_video_port1
+2025/10/8 18:43:34:581 [DisplayControl] Model name from VideoPort = 
+2025/10/8 18:43:34:581 [DisplayControl] SN from VideoPort = 
+2025/10/8 18:43:34:581 ====== List p_lpo_display_info_rtd_scalar_rts_hub, # of devices is ======0
+2025/10/8 18:43:34:581 [DisplayControl] GetVSRtkHubControlClientListener
+2025/10/8 18:43:34:581 [DisplayControl] max monitor count = 2
+2025/10/8 18:43:34:581 [DisplayControl] index of display_info_vec = 0
+2025/10/8 18:43:34:581 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/10/8 18:43:34:581 [DisplayControl] VideoPortMatchingRule
+2025/10/8 18:43:34:581 [DisplayControl] monitor display_info_model_name = 
+2025/10/8 18:43:34:581 [DisplayControl] monitor video_port_model_name = VG2748A
+2025/10/8 18:43:34:581 [DisplayControl] monitor display_info_sn = 
+2025/10/8 18:43:34:581 [DisplayControl] monitor video_port_sn = TBC211800028
+2025/10/8 18:43:34:581 [DisplayControl] model_name_match = 0
+2025/10/8 18:43:34:581 [DisplayControl] sn_match = 0
+2025/10/8 18:43:34:581 [DisplayControl] video_port is_match = 0
+2025/10/8 18:43:34:581 [DisplayControl] index of display_info_vec = 0
+2025/10/8 18:43:34:581 [DisplayControl] index of p_lpo_display_info_video_port = 1
+2025/10/8 18:43:34:582 [DisplayControl] VideoPortMatchingRule
+2025/10/8 18:43:34:582 [DisplayControl] monitor display_info_model_name = 
+2025/10/8 18:43:34:582 [DisplayControl] monitor video_port_model_name = 
+2025/10/8 18:43:34:582 [DisplayControl] monitor display_info_sn = 
+2025/10/8 18:43:34:582 [DisplayControl] monitor video_port_sn = 
+2025/10/8 18:43:34:582 [DisplayControl] model_name_match = 1
+2025/10/8 18:43:34:582 [DisplayControl] sn_match = 1
+2025/10/8 18:43:34:582 [DisplayControl] video_port is_match = 1
+2025/10/8 18:43:34:582 [DisplayControl] index of display_info_vec = 1
+2025/10/8 18:43:34:582 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/10/8 18:43:34:582 [DisplayControl] VideoPortMatchingRule
+2025/10/8 18:43:34:582 [DisplayControl] monitor display_info_model_name = VG2748A
+2025/10/8 18:43:34:582 [DisplayControl] monitor video_port_model_name = VG2748A
+2025/10/8 18:43:34:582 [DisplayControl] monitor display_info_sn = TBC211800028
+2025/10/8 18:43:34:582 [DisplayControl] monitor video_port_sn = TBC211800028
+2025/10/8 18:43:34:582 [DisplayControl] model_name_match = 1
+2025/10/8 18:43:34:582 [DisplayControl] sn_match = 1
+2025/10/8 18:43:34:582 [DisplayControl] video_port is_match = 1
+2025/10/8 18:43:34:582 [DisplayControl] i = 0
+2025/10/8 18:43:34:583 [DisplayControl] Enter OperationThread::OperationThread()
+2025/10/8 18:43:34:583 [DisplayControl] Enter OperationThread::CreateThread
+2025/10/8 18:43:34:583 [DisplayControl] new DisplayFunctioner
+2025/10/8 18:43:34:583 [DisplayControl] insert displayer_vector
+2025/10/8 18:43:34:583 [DisplayControl] insert modelName_SN_to_Display_map
+2025/10/8 18:43:34:583 [DisplayControl] i = 1
+2025/10/8 18:43:34:583 [DisplayControl] Enter OperationThread::OperationThread()
+2025/10/8 18:43:34:583 [DisplayControl] Enter OperationThread::CreateThread
+2025/10/8 18:43:34:583 [DisplayControl] new DisplayFunctioner
+2025/10/8 18:43:34:583 [DisplayControl] insert displayer_vector
+2025/10/8 18:43:34:583 [DisplayControl] insert modelName_SN_to_Display_map
+2025/10/8 18:43:34:583 [DisplayControl] monitor size = 2
+2025/10/8 18:43:34:583 [DisplayControl] Exit ObtainControlHandler
+2025/10/8 18:43:34:583 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 16
+2025/10/8 18:43:34:795 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:43:34:796 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 236
+2025/10/8 18:43:35:56 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:43:35:159 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 135
+2025/10/8 18:43:35:362 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:43:35:463 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 16
+2025/10/8 18:43:35:673 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:43:35:774 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 43
+2025/10/8 18:43:35:980 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:43:36:86 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 225
+2025/10/8 18:43:36:293 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:43:36:393 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 96
+2025/10/8 18:43:36:601 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:43:36:701 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 18
+2025/10/8 18:43:36:904 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:43:37:8 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 97
+2025/10/8 18:43:37:213 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:43:37:314 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 4
+2025/10/8 18:43:37:520 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:43:37:626 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 98
+2025/10/8 18:43:37:830 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:43:37:931 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 226
+2025/10/8 18:43:38:141 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:43:38:242 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 141
+2025/10/8 18:43:38:444 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:43:38:547 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 220
+2025/10/8 18:43:38:758 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:43:38:858 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 51
+2025/10/8 18:43:39:66 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:44:32:42 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 16
+2025/10/8 18:44:32:357 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 18:44:53:500 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 18
+2025/10/8 18:44:53:823 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 18:46:47:553 [DisplayControl] [DisplayerMac SetRotation] display_id = 2, angle = 0
+2025/10/8 18:46:47:553 [DisplayControl] [DisplayerMac SetRotation] degrees = 0
+2025/10/8 18:46:47:661 [DisplayControl] [DisplayerMac GetRotation] display_id = 2
+2025/10/8 18:46:47:661 [DisplayControl] [DisplayerMac GetRotation] rotation_degree = 0
+2025/10/8 18:46:47:661 [DisplayControl] [DisplayerMac GetRotation] angle = 0
+2025/10/8 18:46:47:661 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 4
+2025/10/8 18:46:49:105 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 18:46:54:216 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:46:54:216 [DisplayControl] Exit OperationThread::ExitThread
+2025/10/8 18:46:54:216 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/10/8 18:46:54:216 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:46:54:216 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:46:54:217 [DisplayControl] Exit OperationThread::ExitThread
+2025/10/8 18:46:54:217 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/10/8 18:46:54:217 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:46:54:321 [DbgStr] After calling display_control_client_listener_video_port_.UpdateAllDisplayPath()
+2025/10/8 18:46:54:429 [DbgStr] After calling display_control_client_listener_.GetAllDisplayEDID()
+2025/10/8 18:46:55:501 [DisplayControl] Version = 3.0.6.0
+2025/10/8 18:46:55:501 [DisplayControl] Enter ObtainControlHandler1
+2025/10/8 18:46:55:501 [DisplayControl] GetVideoPortCommander
+2025/10/8 18:46:55:501 [DisplayControl] GetUSBHubCommander
+2025/10/8 18:46:55:501 ====== List p_lpo_display_info_video_port, # of devices is ======2
+2025/10/8 18:46:55:501 [DisplayControl] index of p_lpo_display_info_video_port0
+2025/10/8 18:46:55:501 [DisplayControl] Model name from VideoPort = VG2748A
+2025/10/8 18:46:55:501 [DisplayControl] SN from VideoPort = TBC211800028
+2025/10/8 18:46:55:501 [DisplayControl] index of p_lpo_display_info_video_port1
+2025/10/8 18:46:55:501 [DisplayControl] Model name from VideoPort = 
+2025/10/8 18:46:55:501 [DisplayControl] SN from VideoPort = 
+2025/10/8 18:46:55:501 ====== List p_lpo_display_info_rtd_scalar_rts_hub, # of devices is ======0
+2025/10/8 18:46:55:501 [DisplayControl] GetVSRtkHubControlClientListener
+2025/10/8 18:46:55:501 [DisplayControl] max monitor count = 2
+2025/10/8 18:46:55:501 [DisplayControl] index of display_info_vec = 0
+2025/10/8 18:46:55:501 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/10/8 18:46:55:501 [DisplayControl] VideoPortMatchingRule
+2025/10/8 18:46:55:501 [DisplayControl] monitor display_info_model_name = 
+2025/10/8 18:46:55:501 [DisplayControl] monitor video_port_model_name = VG2748A
+2025/10/8 18:46:55:501 [DisplayControl] monitor display_info_sn = 
+2025/10/8 18:46:55:501 [DisplayControl] monitor video_port_sn = TBC211800028
+2025/10/8 18:46:55:501 [DisplayControl] model_name_match = 0
+2025/10/8 18:46:55:501 [DisplayControl] sn_match = 0
+2025/10/8 18:46:55:501 [DisplayControl] video_port is_match = 0
+2025/10/8 18:46:55:501 [DisplayControl] index of display_info_vec = 0
+2025/10/8 18:46:55:501 [DisplayControl] index of p_lpo_display_info_video_port = 1
+2025/10/8 18:46:55:501 [DisplayControl] VideoPortMatchingRule
+2025/10/8 18:46:55:501 [DisplayControl] monitor display_info_model_name = 
+2025/10/8 18:46:55:501 [DisplayControl] monitor video_port_model_name = 
+2025/10/8 18:46:55:501 [DisplayControl] monitor display_info_sn = 
+2025/10/8 18:46:55:501 [DisplayControl] monitor video_port_sn = 
+2025/10/8 18:46:55:501 [DisplayControl] model_name_match = 1
+2025/10/8 18:46:55:501 [DisplayControl] sn_match = 1
+2025/10/8 18:46:55:501 [DisplayControl] video_port is_match = 1
+2025/10/8 18:46:55:501 [DisplayControl] index of display_info_vec = 1
+2025/10/8 18:46:55:501 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/10/8 18:46:55:501 [DisplayControl] VideoPortMatchingRule
+2025/10/8 18:46:55:501 [DisplayControl] monitor display_info_model_name = VG2748A
+2025/10/8 18:46:55:501 [DisplayControl] monitor video_port_model_name = VG2748A
+2025/10/8 18:46:55:501 [DisplayControl] monitor display_info_sn = TBC211800028
+2025/10/8 18:46:55:501 [DisplayControl] monitor video_port_sn = TBC211800028
+2025/10/8 18:46:55:501 [DisplayControl] model_name_match = 1
+2025/10/8 18:46:55:501 [DisplayControl] sn_match = 1
+2025/10/8 18:46:55:501 [DisplayControl] video_port is_match = 1
+2025/10/8 18:46:55:501 [DisplayControl] i = 0
+2025/10/8 18:46:55:502 [DisplayControl] Enter OperationThread::OperationThread()
+2025/10/8 18:46:55:502 [DisplayControl] Enter OperationThread::CreateThread
+2025/10/8 18:46:55:502 [DisplayControl] new DisplayFunctioner
+2025/10/8 18:46:55:502 [DisplayControl] insert displayer_vector
+2025/10/8 18:46:55:502 [DisplayControl] insert modelName_SN_to_Display_map
+2025/10/8 18:46:55:502 [DisplayControl] i = 1
+2025/10/8 18:46:55:502 [DisplayControl] Enter OperationThread::OperationThread()
+2025/10/8 18:46:55:502 [DisplayControl] Enter OperationThread::CreateThread
+2025/10/8 18:46:55:502 [DisplayControl] new DisplayFunctioner
+2025/10/8 18:46:55:502 [DisplayControl] insert displayer_vector
+2025/10/8 18:46:55:502 [DisplayControl] insert modelName_SN_to_Display_map
+2025/10/8 18:46:55:502 [DisplayControl] monitor size = 2
+2025/10/8 18:46:55:502 [DisplayControl] Exit ObtainControlHandler
+2025/10/8 18:46:55:502 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 16
+2025/10/8 18:46:55:712 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:46:55:712 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 236
+2025/10/8 18:46:55:977 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:46:56:82 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 135
+2025/10/8 18:46:56:289 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:46:56:393 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 16
+2025/10/8 18:46:56:598 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:46:56:704 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 43
+2025/10/8 18:46:56:911 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:46:57:14 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 225
+2025/10/8 18:46:57:218 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:46:57:319 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 96
+2025/10/8 18:46:57:531 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:46:57:632 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 18
+2025/10/8 18:46:57:839 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:46:57:944 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 97
+2025/10/8 18:46:58:148 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:46:58:249 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 4
+2025/10/8 18:46:58:456 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:46:58:560 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 98
+2025/10/8 18:46:58:765 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:46:58:866 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 226
+2025/10/8 18:46:59:69 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:46:59:174 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 141
+2025/10/8 18:46:59:386 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:46:59:492 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 220
+2025/10/8 18:46:59:698 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:46:59:804 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 51
+2025/10/8 18:47:0:10 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:49:17:132 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 51
+2025/10/8 18:49:17:440 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 18:50:4:702 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 96
+2025/10/8 18:50:5:942 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 18:51:15:599 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 96
+2025/10/8 18:51:16:632 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 18:52:26:452 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 96
+2025/10/8 18:52:27:179 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 18:52:33:877 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:52:33:877 [DisplayControl] Exit OperationThread::ExitThread
+2025/10/8 18:52:33:877 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/10/8 18:52:33:877 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:52:33:877 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:52:33:879 [DisplayControl] Exit OperationThread::ExitThread
+2025/10/8 18:52:33:879 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/10/8 18:52:33:879 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:52:33:983 [DbgStr] After calling display_control_client_listener_video_port_.UpdateAllDisplayPath()
+2025/10/8 18:52:34:86 [DbgStr] After calling display_control_client_listener_.GetAllDisplayEDID()
+2025/10/8 18:52:35:162 [DisplayControl] Version = 3.0.6.0
+2025/10/8 18:52:35:162 [DisplayControl] Enter ObtainControlHandler1
+2025/10/8 18:52:35:162 [DisplayControl] GetVideoPortCommander
+2025/10/8 18:52:35:162 [DisplayControl] GetUSBHubCommander
+2025/10/8 18:52:35:162 ====== List p_lpo_display_info_video_port, # of devices is ======2
+2025/10/8 18:52:35:163 [DisplayControl] index of p_lpo_display_info_video_port0
+2025/10/8 18:52:35:163 [DisplayControl] Model name from VideoPort = VG2748A
+2025/10/8 18:52:35:163 [DisplayControl] SN from VideoPort = TBC211800028
+2025/10/8 18:52:35:163 [DisplayControl] index of p_lpo_display_info_video_port1
+2025/10/8 18:52:35:163 [DisplayControl] Model name from VideoPort = 
+2025/10/8 18:52:35:163 [DisplayControl] SN from VideoPort = 
+2025/10/8 18:52:35:163 ====== List p_lpo_display_info_rtd_scalar_rts_hub, # of devices is ======0
+2025/10/8 18:52:35:163 [DisplayControl] GetVSRtkHubControlClientListener
+2025/10/8 18:52:35:163 [DisplayControl] max monitor count = 2
+2025/10/8 18:52:35:163 [DisplayControl] index of display_info_vec = 0
+2025/10/8 18:52:35:163 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/10/8 18:52:35:163 [DisplayControl] VideoPortMatchingRule
+2025/10/8 18:52:35:163 [DisplayControl] monitor display_info_model_name = 
+2025/10/8 18:52:35:163 [DisplayControl] monitor video_port_model_name = VG2748A
+2025/10/8 18:52:35:163 [DisplayControl] monitor display_info_sn = 
+2025/10/8 18:52:35:163 [DisplayControl] monitor video_port_sn = TBC211800028
+2025/10/8 18:52:35:163 [DisplayControl] model_name_match = 0
+2025/10/8 18:52:35:163 [DisplayControl] sn_match = 0
+2025/10/8 18:52:35:163 [DisplayControl] video_port is_match = 0
+2025/10/8 18:52:35:163 [DisplayControl] index of display_info_vec = 0
+2025/10/8 18:52:35:163 [DisplayControl] index of p_lpo_display_info_video_port = 1
+2025/10/8 18:52:35:163 [DisplayControl] VideoPortMatchingRule
+2025/10/8 18:52:35:163 [DisplayControl] monitor display_info_model_name = 
+2025/10/8 18:52:35:163 [DisplayControl] monitor video_port_model_name = 
+2025/10/8 18:52:35:163 [DisplayControl] monitor display_info_sn = 
+2025/10/8 18:52:35:163 [DisplayControl] monitor video_port_sn = 
+2025/10/8 18:52:35:163 [DisplayControl] model_name_match = 1
+2025/10/8 18:52:35:163 [DisplayControl] sn_match = 1
+2025/10/8 18:52:35:163 [DisplayControl] video_port is_match = 1
+2025/10/8 18:52:35:163 [DisplayControl] index of display_info_vec = 1
+2025/10/8 18:52:35:163 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/10/8 18:52:35:163 [DisplayControl] VideoPortMatchingRule
+2025/10/8 18:52:35:163 [DisplayControl] monitor display_info_model_name = VG2748A
+2025/10/8 18:52:35:163 [DisplayControl] monitor video_port_model_name = VG2748A
+2025/10/8 18:52:35:163 [DisplayControl] monitor display_info_sn = TBC211800028
+2025/10/8 18:52:35:163 [DisplayControl] monitor video_port_sn = TBC211800028
+2025/10/8 18:52:35:163 [DisplayControl] model_name_match = 1
+2025/10/8 18:52:35:163 [DisplayControl] sn_match = 1
+2025/10/8 18:52:35:163 [DisplayControl] video_port is_match = 1
+2025/10/8 18:52:35:163 [DisplayControl] i = 0
+2025/10/8 18:52:35:164 [DisplayControl] Enter OperationThread::OperationThread()
+2025/10/8 18:52:35:164 [DisplayControl] Enter OperationThread::CreateThread
+2025/10/8 18:52:35:164 [DisplayControl] new DisplayFunctioner
+2025/10/8 18:52:35:164 [DisplayControl] insert displayer_vector
+2025/10/8 18:52:35:164 [DisplayControl] insert modelName_SN_to_Display_map
+2025/10/8 18:52:35:164 [DisplayControl] i = 1
+2025/10/8 18:52:35:164 [DisplayControl] Enter OperationThread::OperationThread()
+2025/10/8 18:52:35:164 [DisplayControl] Enter OperationThread::CreateThread
+2025/10/8 18:52:35:164 [DisplayControl] new DisplayFunctioner
+2025/10/8 18:52:35:164 [DisplayControl] insert displayer_vector
+2025/10/8 18:52:35:164 [DisplayControl] insert modelName_SN_to_Display_map
+2025/10/8 18:52:35:164 [DisplayControl] monitor size = 2
+2025/10/8 18:52:35:164 [DisplayControl] Exit ObtainControlHandler
+2025/10/8 18:52:35:164 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 16
+2025/10/8 18:52:35:371 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:52:35:632 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 51
+2025/10/8 18:52:37:77 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 18:52:37:78 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 236
+2025/10/8 18:52:37:282 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:52:37:387 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 135
+2025/10/8 18:52:37:594 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:52:37:694 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 16
+2025/10/8 18:52:37:903 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:52:38:9 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 43
+2025/10/8 18:52:38:217 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:52:38:317 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 225
+2025/10/8 18:52:38:521 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:52:38:623 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 96
+2025/10/8 18:52:38:828 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:52:38:929 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 18
+2025/10/8 18:52:39:134 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:52:39:237 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 97
+2025/10/8 18:52:39:445 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:52:39:546 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 4
+2025/10/8 18:52:39:751 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:52:39:856 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 98
+2025/10/8 18:52:40:60 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:52:40:161 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 226
+2025/10/8 18:52:40:368 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:52:40:473 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 141
+2025/10/8 18:52:40:678 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:52:40:783 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 220
+2025/10/8 18:52:40:990 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:52:41:93 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 51
+2025/10/8 18:52:41:297 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:52:41:405 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 96
+2025/10/8 18:52:41:615 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 18:53:34:852 [DisplayControl] [DisplayerMac GetRotation] display_id = 2
+2025/10/8 18:53:34:852 [DisplayControl] [DisplayerMac GetRotation] rotation_degree = 0
+2025/10/8 18:53:34:852 [DisplayControl] [DisplayerMac GetRotation] angle = 0
+2025/10/8 18:53:34:852 [DisplayControl] [DisplayerMac SetRotation] display_id = 2, angle = 1
+2025/10/8 18:53:34:852 [DisplayControl] [DisplayerMac SetRotation] degrees = 90
+2025/10/8 18:53:35:13 [DisplayControl] [DisplayerMac GetRotation] display_id = 2
+2025/10/8 18:53:35:13 [DisplayControl] [DisplayerMac GetRotation] rotation_degree = 90
+2025/10/8 18:53:35:13 [DisplayControl] [DisplayerMac GetRotation] angle = 1
+2025/10/8 18:53:35:13 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:53:35:13 [DisplayControl] Exit OperationThread::ExitThread
+2025/10/8 18:53:35:13 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/10/8 18:53:35:13 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:53:35:13 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:53:35:14 [DisplayControl] Exit OperationThread::ExitThread
+2025/10/8 18:53:35:14 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/10/8 18:53:35:14 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:53:35:117 [DbgStr] After calling display_control_client_listener_video_port_.UpdateAllDisplayPath()
+2025/10/8 18:53:35:220 [DbgStr] After calling display_control_client_listener_.GetAllDisplayEDID()
+2025/10/8 18:53:36:240 [DisplayControl] Version = 3.0.6.0
+2025/10/8 18:53:36:240 [DisplayControl] Enter ObtainControlHandler1
+2025/10/8 18:53:36:240 [DisplayControl] GetVideoPortCommander
+2025/10/8 18:53:36:240 [DisplayControl] GetUSBHubCommander
+2025/10/8 18:53:36:240 ====== List p_lpo_display_info_video_port, # of devices is ======2
+2025/10/8 18:53:36:240 [DisplayControl] index of p_lpo_display_info_video_port0
+2025/10/8 18:53:36:240 [DisplayControl] Model name from VideoPort = VG2748A
+2025/10/8 18:53:36:240 [DisplayControl] SN from VideoPort = TBC211800028
+2025/10/8 18:53:36:240 [DisplayControl] index of p_lpo_display_info_video_port1
+2025/10/8 18:53:36:240 [DisplayControl] Model name from VideoPort = 
+2025/10/8 18:53:36:240 [DisplayControl] SN from VideoPort = 
+2025/10/8 18:53:36:240 ====== List p_lpo_display_info_rtd_scalar_rts_hub, # of devices is ======0
+2025/10/8 18:53:36:240 [DisplayControl] GetVSRtkHubControlClientListener
+2025/10/8 18:53:36:240 [DisplayControl] max monitor count = 2
+2025/10/8 18:53:36:240 [DisplayControl] index of display_info_vec = 0
+2025/10/8 18:53:36:240 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/10/8 18:53:36:240 [DisplayControl] VideoPortMatchingRule
+2025/10/8 18:53:36:240 [DisplayControl] monitor display_info_model_name = 
+2025/10/8 18:53:36:240 [DisplayControl] monitor video_port_model_name = VG2748A
+2025/10/8 18:53:36:240 [DisplayControl] monitor display_info_sn = 
+2025/10/8 18:53:36:240 [DisplayControl] monitor video_port_sn = TBC211800028
+2025/10/8 18:53:36:240 [DisplayControl] model_name_match = 0
+2025/10/8 18:53:36:240 [DisplayControl] sn_match = 0
+2025/10/8 18:53:36:240 [DisplayControl] video_port is_match = 0
+2025/10/8 18:53:36:240 [DisplayControl] index of display_info_vec = 0
+2025/10/8 18:53:36:240 [DisplayControl] index of p_lpo_display_info_video_port = 1
+2025/10/8 18:53:36:240 [DisplayControl] VideoPortMatchingRule
+2025/10/8 18:53:36:240 [DisplayControl] monitor display_info_model_name = 
+2025/10/8 18:53:36:240 [DisplayControl] monitor video_port_model_name = 
+2025/10/8 18:53:36:240 [DisplayControl] monitor display_info_sn = 
+2025/10/8 18:53:36:240 [DisplayControl] monitor video_port_sn = 
+2025/10/8 18:53:36:240 [DisplayControl] model_name_match = 1
+2025/10/8 18:53:36:240 [DisplayControl] sn_match = 1
+2025/10/8 18:53:36:240 [DisplayControl] video_port is_match = 1
+2025/10/8 18:53:36:240 [DisplayControl] index of display_info_vec = 1
+2025/10/8 18:53:36:240 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/10/8 18:53:36:240 [DisplayControl] VideoPortMatchingRule
+2025/10/8 18:53:36:240 [DisplayControl] monitor display_info_model_name = VG2748A
+2025/10/8 18:53:36:240 [DisplayControl] monitor video_port_model_name = VG2748A
+2025/10/8 18:53:36:240 [DisplayControl] monitor display_info_sn = TBC211800028
+2025/10/8 18:53:36:240 [DisplayControl] monitor video_port_sn = TBC211800028
+2025/10/8 18:53:36:240 [DisplayControl] model_name_match = 1
+2025/10/8 18:53:36:240 [DisplayControl] sn_match = 1
+2025/10/8 18:53:36:240 [DisplayControl] video_port is_match = 1
+2025/10/8 18:53:36:240 [DisplayControl] i = 0
+2025/10/8 18:53:36:241 [DisplayControl] Enter OperationThread::OperationThread()
+2025/10/8 18:53:36:241 [DisplayControl] Enter OperationThread::CreateThread
+2025/10/8 18:53:36:241 [DisplayControl] new DisplayFunctioner
+2025/10/8 18:53:36:241 [DisplayControl] insert displayer_vector
+2025/10/8 18:53:36:241 [DisplayControl] insert modelName_SN_to_Display_map
+2025/10/8 18:53:36:241 [DisplayControl] i = 1
+2025/10/8 18:53:36:241 [DisplayControl] Enter OperationThread::OperationThread()
+2025/10/8 18:53:36:241 [DisplayControl] Enter OperationThread::CreateThread
+2025/10/8 18:53:36:241 [DisplayControl] new DisplayFunctioner
+2025/10/8 18:53:36:241 [DisplayControl] insert displayer_vector
+2025/10/8 18:53:36:241 [DisplayControl] insert modelName_SN_to_Display_map
+2025/10/8 18:53:36:241 [DisplayControl] monitor size = 2
+2025/10/8 18:53:36:241 [DisplayControl] Exit ObtainControlHandler
+2025/10/8 18:55:8:747 [DisplayControl] [DisplayerMac GetRotation] display_id = 2
+2025/10/8 18:55:8:747 [DisplayControl] [DisplayerMac GetRotation] rotation_degree = 90
+2025/10/8 18:55:8:747 [DisplayControl] [DisplayerMac GetRotation] angle = 1
+2025/10/8 18:55:8:747 [DisplayControl] [DisplayerMac SetRotation] display_id = 2, angle = 2
+2025/10/8 18:55:8:747 [DisplayControl] [DisplayerMac SetRotation] degrees = 180
+2025/10/8 18:55:8:904 [DisplayControl] [DisplayerMac GetRotation] display_id = 2
+2025/10/8 18:55:8:904 [DisplayControl] [DisplayerMac GetRotation] rotation_degree = 180
+2025/10/8 18:55:8:904 [DisplayControl] [DisplayerMac GetRotation] angle = 2
+2025/10/8 18:55:8:904 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:55:8:904 [DisplayControl] Exit OperationThread::ExitThread
+2025/10/8 18:55:8:904 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/10/8 18:55:8:904 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:55:8:904 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:55:8:904 [DisplayControl] Exit OperationThread::ExitThread
+2025/10/8 18:55:8:904 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/10/8 18:55:8:904 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:55:9:7 [DbgStr] After calling display_control_client_listener_video_port_.UpdateAllDisplayPath()
+2025/10/8 18:55:9:111 [DbgStr] After calling display_control_client_listener_.GetAllDisplayEDID()
+2025/10/8 18:55:10:142 [DisplayControl] Version = 3.0.6.0
+2025/10/8 18:55:10:142 [DisplayControl] Enter ObtainControlHandler1
+2025/10/8 18:55:10:142 [DisplayControl] GetVideoPortCommander
+2025/10/8 18:55:10:142 [DisplayControl] GetUSBHubCommander
+2025/10/8 18:55:10:142 ====== List p_lpo_display_info_video_port, # of devices is ======2
+2025/10/8 18:55:10:142 [DisplayControl] index of p_lpo_display_info_video_port0
+2025/10/8 18:55:10:142 [DisplayControl] Model name from VideoPort = VG2748A
+2025/10/8 18:55:10:142 [DisplayControl] SN from VideoPort = TBC211800028
+2025/10/8 18:55:10:142 [DisplayControl] index of p_lpo_display_info_video_port1
+2025/10/8 18:55:10:142 [DisplayControl] Model name from VideoPort = 
+2025/10/8 18:55:10:142 [DisplayControl] SN from VideoPort = 
+2025/10/8 18:55:10:142 ====== List p_lpo_display_info_rtd_scalar_rts_hub, # of devices is ======0
+2025/10/8 18:55:10:142 [DisplayControl] GetVSRtkHubControlClientListener
+2025/10/8 18:55:10:142 [DisplayControl] max monitor count = 2
+2025/10/8 18:55:10:142 [DisplayControl] index of display_info_vec = 0
+2025/10/8 18:55:10:142 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/10/8 18:55:10:142 [DisplayControl] VideoPortMatchingRule
+2025/10/8 18:55:10:142 [DisplayControl] monitor display_info_model_name = 
+2025/10/8 18:55:10:142 [DisplayControl] monitor video_port_model_name = VG2748A
+2025/10/8 18:55:10:142 [DisplayControl] monitor display_info_sn = 
+2025/10/8 18:55:10:142 [DisplayControl] monitor video_port_sn = TBC211800028
+2025/10/8 18:55:10:142 [DisplayControl] model_name_match = 0
+2025/10/8 18:55:10:142 [DisplayControl] sn_match = 0
+2025/10/8 18:55:10:142 [DisplayControl] video_port is_match = 0
+2025/10/8 18:55:10:142 [DisplayControl] index of display_info_vec = 0
+2025/10/8 18:55:10:142 [DisplayControl] index of p_lpo_display_info_video_port = 1
+2025/10/8 18:55:10:142 [DisplayControl] VideoPortMatchingRule
+2025/10/8 18:55:10:142 [DisplayControl] monitor display_info_model_name = 
+2025/10/8 18:55:10:142 [DisplayControl] monitor video_port_model_name = 
+2025/10/8 18:55:10:142 [DisplayControl] monitor display_info_sn = 
+2025/10/8 18:55:10:142 [DisplayControl] monitor video_port_sn = 
+2025/10/8 18:55:10:142 [DisplayControl] model_name_match = 1
+2025/10/8 18:55:10:142 [DisplayControl] sn_match = 1
+2025/10/8 18:55:10:142 [DisplayControl] video_port is_match = 1
+2025/10/8 18:55:10:142 [DisplayControl] index of display_info_vec = 1
+2025/10/8 18:55:10:142 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/10/8 18:55:10:142 [DisplayControl] VideoPortMatchingRule
+2025/10/8 18:55:10:142 [DisplayControl] monitor display_info_model_name = VG2748A
+2025/10/8 18:55:10:142 [DisplayControl] monitor video_port_model_name = VG2748A
+2025/10/8 18:55:10:142 [DisplayControl] monitor display_info_sn = TBC211800028
+2025/10/8 18:55:10:142 [DisplayControl] monitor video_port_sn = TBC211800028
+2025/10/8 18:55:10:142 [DisplayControl] model_name_match = 1
+2025/10/8 18:55:10:142 [DisplayControl] sn_match = 1
+2025/10/8 18:55:10:142 [DisplayControl] video_port is_match = 1
+2025/10/8 18:55:10:142 [DisplayControl] i = 0
+2025/10/8 18:55:10:144 [DisplayControl] Enter OperationThread::OperationThread()
+2025/10/8 18:55:10:144 [DisplayControl] Enter OperationThread::CreateThread
+2025/10/8 18:55:10:144 [DisplayControl] new DisplayFunctioner
+2025/10/8 18:55:10:144 [DisplayControl] insert displayer_vector
+2025/10/8 18:55:10:144 [DisplayControl] insert modelName_SN_to_Display_map
+2025/10/8 18:55:10:144 [DisplayControl] i = 1
+2025/10/8 18:55:10:144 [DisplayControl] Enter OperationThread::OperationThread()
+2025/10/8 18:55:10:144 [DisplayControl] Enter OperationThread::CreateThread
+2025/10/8 18:55:10:144 [DisplayControl] new DisplayFunctioner
+2025/10/8 18:55:10:144 [DisplayControl] insert displayer_vector
+2025/10/8 18:55:10:144 [DisplayControl] insert modelName_SN_to_Display_map
+2025/10/8 18:55:10:144 [DisplayControl] monitor size = 2
+2025/10/8 18:55:10:144 [DisplayControl] Exit ObtainControlHandler
+2025/10/8 18:56:33:808 [DisplayControl] [DisplayerMac SetRotation] display_id = 2, angle = 0
+2025/10/8 18:56:33:808 [DisplayControl] [DisplayerMac SetRotation] degrees = 0
+2025/10/8 18:56:33:958 [DisplayControl] [DisplayerMac GetRotation] display_id = 2
+2025/10/8 18:56:33:958 [DisplayControl] [DisplayerMac GetRotation] rotation_degree = 0
+2025/10/8 18:56:33:958 [DisplayControl] [DisplayerMac GetRotation] angle = 0
+2025/10/8 18:56:33:959 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:56:33:959 [DisplayControl] Exit OperationThread::ExitThread
+2025/10/8 18:56:33:959 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/10/8 18:56:33:959 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:56:33:959 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:56:33:959 [DisplayControl] Exit OperationThread::ExitThread
+2025/10/8 18:56:33:959 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/10/8 18:56:33:959 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:56:34:62 [DbgStr] After calling display_control_client_listener_video_port_.UpdateAllDisplayPath()
+2025/10/8 18:56:34:165 [DbgStr] After calling display_control_client_listener_.GetAllDisplayEDID()
+2025/10/8 18:56:35:163 [DisplayControl] Version = 3.0.6.0
+2025/10/8 18:56:35:163 [DisplayControl] Enter ObtainControlHandler1
+2025/10/8 18:56:35:163 [DisplayControl] GetVideoPortCommander
+2025/10/8 18:56:35:163 [DisplayControl] GetUSBHubCommander
+2025/10/8 18:56:35:163 ====== List p_lpo_display_info_video_port, # of devices is ======2
+2025/10/8 18:56:35:163 [DisplayControl] index of p_lpo_display_info_video_port0
+2025/10/8 18:56:35:163 [DisplayControl] Model name from VideoPort = VG2748A
+2025/10/8 18:56:35:163 [DisplayControl] SN from VideoPort = TBC211800028
+2025/10/8 18:56:35:163 [DisplayControl] index of p_lpo_display_info_video_port1
+2025/10/8 18:56:35:163 [DisplayControl] Model name from VideoPort = 
+2025/10/8 18:56:35:163 [DisplayControl] SN from VideoPort = 
+2025/10/8 18:56:35:163 ====== List p_lpo_display_info_rtd_scalar_rts_hub, # of devices is ======0
+2025/10/8 18:56:35:163 [DisplayControl] GetVSRtkHubControlClientListener
+2025/10/8 18:56:35:163 [DisplayControl] max monitor count = 2
+2025/10/8 18:56:35:163 [DisplayControl] index of display_info_vec = 0
+2025/10/8 18:56:35:163 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/10/8 18:56:35:163 [DisplayControl] VideoPortMatchingRule
+2025/10/8 18:56:35:163 [DisplayControl] monitor display_info_model_name = 
+2025/10/8 18:56:35:163 [DisplayControl] monitor video_port_model_name = VG2748A
+2025/10/8 18:56:35:163 [DisplayControl] monitor display_info_sn = 
+2025/10/8 18:56:35:163 [DisplayControl] monitor video_port_sn = TBC211800028
+2025/10/8 18:56:35:163 [DisplayControl] model_name_match = 0
+2025/10/8 18:56:35:163 [DisplayControl] sn_match = 0
+2025/10/8 18:56:35:163 [DisplayControl] video_port is_match = 0
+2025/10/8 18:56:35:163 [DisplayControl] index of display_info_vec = 0
+2025/10/8 18:56:35:163 [DisplayControl] index of p_lpo_display_info_video_port = 1
+2025/10/8 18:56:35:163 [DisplayControl] VideoPortMatchingRule
+2025/10/8 18:56:35:163 [DisplayControl] monitor display_info_model_name = 
+2025/10/8 18:56:35:163 [DisplayControl] monitor video_port_model_name = 
+2025/10/8 18:56:35:163 [DisplayControl] monitor display_info_sn = 
+2025/10/8 18:56:35:163 [DisplayControl] monitor video_port_sn = 
+2025/10/8 18:56:35:163 [DisplayControl] model_name_match = 1
+2025/10/8 18:56:35:163 [DisplayControl] sn_match = 1
+2025/10/8 18:56:35:163 [DisplayControl] video_port is_match = 1
+2025/10/8 18:56:35:163 [DisplayControl] index of display_info_vec = 1
+2025/10/8 18:56:35:163 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/10/8 18:56:35:164 [DisplayControl] VideoPortMatchingRule
+2025/10/8 18:56:35:164 [DisplayControl] monitor display_info_model_name = VG2748A
+2025/10/8 18:56:35:164 [DisplayControl] monitor video_port_model_name = VG2748A
+2025/10/8 18:56:35:164 [DisplayControl] monitor display_info_sn = TBC211800028
+2025/10/8 18:56:35:164 [DisplayControl] monitor video_port_sn = TBC211800028
+2025/10/8 18:56:35:164 [DisplayControl] model_name_match = 1
+2025/10/8 18:56:35:164 [DisplayControl] sn_match = 1
+2025/10/8 18:56:35:164 [DisplayControl] video_port is_match = 1
+2025/10/8 18:56:35:164 [DisplayControl] i = 0
+2025/10/8 18:56:35:166 [DisplayControl] Enter OperationThread::OperationThread()
+2025/10/8 18:56:35:166 [DisplayControl] Enter OperationThread::CreateThread
+2025/10/8 18:56:35:166 [DisplayControl] new DisplayFunctioner
+2025/10/8 18:56:35:166 [DisplayControl] insert displayer_vector
+2025/10/8 18:56:35:166 [DisplayControl] insert modelName_SN_to_Display_map
+2025/10/8 18:56:35:166 [DisplayControl] i = 1
+2025/10/8 18:56:35:166 [DisplayControl] Enter OperationThread::OperationThread()
+2025/10/8 18:56:35:166 [DisplayControl] Enter OperationThread::CreateThread
+2025/10/8 18:56:35:166 [DisplayControl] new DisplayFunctioner
+2025/10/8 18:56:35:166 [DisplayControl] insert displayer_vector
+2025/10/8 18:56:35:166 [DisplayControl] insert modelName_SN_to_Display_map
+2025/10/8 18:56:35:166 [DisplayControl] monitor size = 2
+2025/10/8 18:56:35:166 [DisplayControl] Exit ObtainControlHandler
+2025/10/8 18:58:7:523 [DisplayControl] [DisplayerMac GetRotation] display_id = 2
+2025/10/8 18:58:7:523 [DisplayControl] [DisplayerMac GetRotation] rotation_degree = 0
+2025/10/8 18:58:7:523 [DisplayControl] [DisplayerMac GetRotation] angle = 0
+2025/10/8 18:58:7:523 [DisplayControl] [DisplayerMac SetRotation] display_id = 2, angle = 3
+2025/10/8 18:58:7:523 [DisplayControl] [DisplayerMac SetRotation] degrees = 270
+2025/10/8 18:58:7:687 [DisplayControl] [DisplayerMac GetRotation] display_id = 2
+2025/10/8 18:58:7:687 [DisplayControl] [DisplayerMac GetRotation] rotation_degree = 270
+2025/10/8 18:58:7:687 [DisplayControl] [DisplayerMac GetRotation] angle = 3
+2025/10/8 18:58:7:688 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:58:7:688 [DisplayControl] Exit OperationThread::ExitThread
+2025/10/8 18:58:7:688 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/10/8 18:58:7:688 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:58:7:688 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:58:7:688 [DisplayControl] Exit OperationThread::ExitThread
+2025/10/8 18:58:7:688 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/10/8 18:58:7:688 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:58:7:790 [DbgStr] After calling display_control_client_listener_video_port_.UpdateAllDisplayPath()
+2025/10/8 18:58:7:893 [DbgStr] After calling display_control_client_listener_.GetAllDisplayEDID()
+2025/10/8 18:58:8:905 [DisplayControl] Version = 3.0.6.0
+2025/10/8 18:58:8:905 [DisplayControl] Enter ObtainControlHandler1
+2025/10/8 18:58:8:905 [DisplayControl] GetVideoPortCommander
+2025/10/8 18:58:8:905 [DisplayControl] GetUSBHubCommander
+2025/10/8 18:58:8:905 ====== List p_lpo_display_info_video_port, # of devices is ======2
+2025/10/8 18:58:8:905 [DisplayControl] index of p_lpo_display_info_video_port0
+2025/10/8 18:58:8:905 [DisplayControl] Model name from VideoPort = VG2748A
+2025/10/8 18:58:8:905 [DisplayControl] SN from VideoPort = TBC211800028
+2025/10/8 18:58:8:905 [DisplayControl] index of p_lpo_display_info_video_port1
+2025/10/8 18:58:8:905 [DisplayControl] Model name from VideoPort = 
+2025/10/8 18:58:8:906 [DisplayControl] SN from VideoPort = 
+2025/10/8 18:58:8:906 ====== List p_lpo_display_info_rtd_scalar_rts_hub, # of devices is ======0
+2025/10/8 18:58:8:906 [DisplayControl] GetVSRtkHubControlClientListener
+2025/10/8 18:58:8:906 [DisplayControl] max monitor count = 2
+2025/10/8 18:58:8:906 [DisplayControl] index of display_info_vec = 0
+2025/10/8 18:58:8:906 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/10/8 18:58:8:906 [DisplayControl] VideoPortMatchingRule
+2025/10/8 18:58:8:906 [DisplayControl] monitor display_info_model_name = 
+2025/10/8 18:58:8:906 [DisplayControl] monitor video_port_model_name = VG2748A
+2025/10/8 18:58:8:906 [DisplayControl] monitor display_info_sn = 
+2025/10/8 18:58:8:906 [DisplayControl] monitor video_port_sn = TBC211800028
+2025/10/8 18:58:8:906 [DisplayControl] model_name_match = 0
+2025/10/8 18:58:8:906 [DisplayControl] sn_match = 0
+2025/10/8 18:58:8:906 [DisplayControl] video_port is_match = 0
+2025/10/8 18:58:8:906 [DisplayControl] index of display_info_vec = 0
+2025/10/8 18:58:8:906 [DisplayControl] index of p_lpo_display_info_video_port = 1
+2025/10/8 18:58:8:906 [DisplayControl] VideoPortMatchingRule
+2025/10/8 18:58:8:906 [DisplayControl] monitor display_info_model_name = 
+2025/10/8 18:58:8:906 [DisplayControl] monitor video_port_model_name = 
+2025/10/8 18:58:8:906 [DisplayControl] monitor display_info_sn = 
+2025/10/8 18:58:8:906 [DisplayControl] monitor video_port_sn = 
+2025/10/8 18:58:8:906 [DisplayControl] model_name_match = 1
+2025/10/8 18:58:8:906 [DisplayControl] sn_match = 1
+2025/10/8 18:58:8:906 [DisplayControl] video_port is_match = 1
+2025/10/8 18:58:8:906 [DisplayControl] index of display_info_vec = 1
+2025/10/8 18:58:8:906 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/10/8 18:58:8:906 [DisplayControl] VideoPortMatchingRule
+2025/10/8 18:58:8:906 [DisplayControl] monitor display_info_model_name = VG2748A
+2025/10/8 18:58:8:906 [DisplayControl] monitor video_port_model_name = VG2748A
+2025/10/8 18:58:8:906 [DisplayControl] monitor display_info_sn = TBC211800028
+2025/10/8 18:58:8:906 [DisplayControl] monitor video_port_sn = TBC211800028
+2025/10/8 18:58:8:906 [DisplayControl] model_name_match = 1
+2025/10/8 18:58:8:906 [DisplayControl] sn_match = 1
+2025/10/8 18:58:8:906 [DisplayControl] video_port is_match = 1
+2025/10/8 18:58:8:906 [DisplayControl] i = 0
+2025/10/8 18:58:8:911 [DisplayControl] Enter OperationThread::OperationThread()
+2025/10/8 18:58:8:911 [DisplayControl] Enter OperationThread::CreateThread
+2025/10/8 18:58:8:911 [DisplayControl] new DisplayFunctioner
+2025/10/8 18:58:8:911 [DisplayControl] insert displayer_vector
+2025/10/8 18:58:8:911 [DisplayControl] insert modelName_SN_to_Display_map
+2025/10/8 18:58:8:911 [DisplayControl] i = 1
+2025/10/8 18:58:8:911 [DisplayControl] Enter OperationThread::OperationThread()
+2025/10/8 18:58:8:911 [DisplayControl] Enter OperationThread::CreateThread
+2025/10/8 18:58:8:911 [DisplayControl] new DisplayFunctioner
+2025/10/8 18:58:8:911 [DisplayControl] insert displayer_vector
+2025/10/8 18:58:8:911 [DisplayControl] insert modelName_SN_to_Display_map
+2025/10/8 18:58:8:911 [DisplayControl] monitor size = 2
+2025/10/8 18:58:8:911 [DisplayControl] Exit ObtainControlHandler
+2025/10/8 18:59:41:218 [DisplayControl] [DisplayerMac GetRotation] display_id = 2
+2025/10/8 18:59:41:218 [DisplayControl] [DisplayerMac GetRotation] rotation_degree = 270
+2025/10/8 18:59:41:218 [DisplayControl] [DisplayerMac GetRotation] angle = 3
+2025/10/8 18:59:41:218 [DisplayControl] [DisplayerMac SetRotation] display_id = 2, angle = 2
+2025/10/8 18:59:41:218 [DisplayControl] [DisplayerMac SetRotation] degrees = 180
+2025/10/8 18:59:41:381 [DisplayControl] [DisplayerMac GetRotation] display_id = 2
+2025/10/8 18:59:41:381 [DisplayControl] [DisplayerMac GetRotation] rotation_degree = 180
+2025/10/8 18:59:41:381 [DisplayControl] [DisplayerMac GetRotation] angle = 2
+2025/10/8 18:59:41:381 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:59:41:381 [DisplayControl] Exit OperationThread::ExitThread
+2025/10/8 18:59:41:381 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/10/8 18:59:41:381 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:59:41:381 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:59:41:382 [DisplayControl] Exit OperationThread::ExitThread
+2025/10/8 18:59:41:382 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/10/8 18:59:41:382 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 18:59:41:485 [DbgStr] After calling display_control_client_listener_video_port_.UpdateAllDisplayPath()
+2025/10/8 18:59:41:589 [DbgStr] After calling display_control_client_listener_.GetAllDisplayEDID()
+2025/10/8 18:59:42:610 [DisplayControl] Version = 3.0.6.0
+2025/10/8 18:59:42:610 [DisplayControl] Enter ObtainControlHandler1
+2025/10/8 18:59:42:610 [DisplayControl] GetVideoPortCommander
+2025/10/8 18:59:42:610 [DisplayControl] GetUSBHubCommander
+2025/10/8 18:59:42:610 ====== List p_lpo_display_info_video_port, # of devices is ======2
+2025/10/8 18:59:42:610 [DisplayControl] index of p_lpo_display_info_video_port0
+2025/10/8 18:59:42:610 [DisplayControl] Model name from VideoPort = VG2748A
+2025/10/8 18:59:42:610 [DisplayControl] SN from VideoPort = TBC211800028
+2025/10/8 18:59:42:610 [DisplayControl] index of p_lpo_display_info_video_port1
+2025/10/8 18:59:42:610 [DisplayControl] Model name from VideoPort = 
+2025/10/8 18:59:42:610 [DisplayControl] SN from VideoPort = 
+2025/10/8 18:59:42:610 ====== List p_lpo_display_info_rtd_scalar_rts_hub, # of devices is ======0
+2025/10/8 18:59:42:610 [DisplayControl] GetVSRtkHubControlClientListener
+2025/10/8 18:59:42:610 [DisplayControl] max monitor count = 2
+2025/10/8 18:59:42:610 [DisplayControl] index of display_info_vec = 0
+2025/10/8 18:59:42:610 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/10/8 18:59:42:610 [DisplayControl] VideoPortMatchingRule
+2025/10/8 18:59:42:610 [DisplayControl] monitor display_info_model_name = 
+2025/10/8 18:59:42:610 [DisplayControl] monitor video_port_model_name = VG2748A
+2025/10/8 18:59:42:610 [DisplayControl] monitor display_info_sn = 
+2025/10/8 18:59:42:610 [DisplayControl] monitor video_port_sn = TBC211800028
+2025/10/8 18:59:42:610 [DisplayControl] model_name_match = 0
+2025/10/8 18:59:42:610 [DisplayControl] sn_match = 0
+2025/10/8 18:59:42:610 [DisplayControl] video_port is_match = 0
+2025/10/8 18:59:42:610 [DisplayControl] index of display_info_vec = 0
+2025/10/8 18:59:42:610 [DisplayControl] index of p_lpo_display_info_video_port = 1
+2025/10/8 18:59:42:610 [DisplayControl] VideoPortMatchingRule
+2025/10/8 18:59:42:610 [DisplayControl] monitor display_info_model_name = 
+2025/10/8 18:59:42:610 [DisplayControl] monitor video_port_model_name = 
+2025/10/8 18:59:42:610 [DisplayControl] monitor display_info_sn = 
+2025/10/8 18:59:42:610 [DisplayControl] monitor video_port_sn = 
+2025/10/8 18:59:42:610 [DisplayControl] model_name_match = 1
+2025/10/8 18:59:42:610 [DisplayControl] sn_match = 1
+2025/10/8 18:59:42:610 [DisplayControl] video_port is_match = 1
+2025/10/8 18:59:42:610 [DisplayControl] index of display_info_vec = 1
+2025/10/8 18:59:42:610 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/10/8 18:59:42:610 [DisplayControl] VideoPortMatchingRule
+2025/10/8 18:59:42:610 [DisplayControl] monitor display_info_model_name = VG2748A
+2025/10/8 18:59:42:610 [DisplayControl] monitor video_port_model_name = VG2748A
+2025/10/8 18:59:42:610 [DisplayControl] monitor display_info_sn = TBC211800028
+2025/10/8 18:59:42:610 [DisplayControl] monitor video_port_sn = TBC211800028
+2025/10/8 18:59:42:610 [DisplayControl] model_name_match = 1
+2025/10/8 18:59:42:610 [DisplayControl] sn_match = 1
+2025/10/8 18:59:42:610 [DisplayControl] video_port is_match = 1
+2025/10/8 18:59:42:610 [DisplayControl] i = 0
+2025/10/8 18:59:42:611 [DisplayControl] Enter OperationThread::OperationThread()
+2025/10/8 18:59:42:611 [DisplayControl] Enter OperationThread::CreateThread
+2025/10/8 18:59:42:611 [DisplayControl] new DisplayFunctioner
+2025/10/8 18:59:42:611 [DisplayControl] insert displayer_vector
+2025/10/8 18:59:42:611 [DisplayControl] insert modelName_SN_to_Display_map
+2025/10/8 18:59:42:611 [DisplayControl] i = 1
+2025/10/8 18:59:42:611 [DisplayControl] Enter OperationThread::OperationThread()
+2025/10/8 18:59:42:611 [DisplayControl] Enter OperationThread::CreateThread
+2025/10/8 18:59:42:611 [DisplayControl] new DisplayFunctioner
+2025/10/8 18:59:42:611 [DisplayControl] insert displayer_vector
+2025/10/8 18:59:42:611 [DisplayControl] insert modelName_SN_to_Display_map
+2025/10/8 18:59:42:611 [DisplayControl] monitor size = 2
+2025/10/8 18:59:42:611 [DisplayControl] Exit ObtainControlHandler
+2025/10/8 19:1:6:223 [DisplayControl] [DisplayerMac SetRotation] display_id = 2, angle = 0
+2025/10/8 19:1:6:223 [DisplayControl] [DisplayerMac SetRotation] degrees = 0
+2025/10/8 19:1:6:385 [DisplayControl] [DisplayerMac GetRotation] display_id = 2
+2025/10/8 19:1:6:385 [DisplayControl] [DisplayerMac GetRotation] rotation_degree = 0
+2025/10/8 19:1:6:385 [DisplayControl] [DisplayerMac GetRotation] angle = 0
+2025/10/8 19:1:6:386 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 19:1:6:386 [DisplayControl] Exit OperationThread::ExitThread
+2025/10/8 19:1:6:386 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/10/8 19:1:6:386 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 19:1:6:386 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 19:1:6:386 [DisplayControl] Exit OperationThread::ExitThread
+2025/10/8 19:1:6:386 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/10/8 19:1:6:386 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 19:1:6:490 [DbgStr] After calling display_control_client_listener_video_port_.UpdateAllDisplayPath()
+2025/10/8 19:1:6:593 [DbgStr] After calling display_control_client_listener_.GetAllDisplayEDID()
+2025/10/8 19:1:7:599 [DisplayControl] Version = 3.0.6.0
+2025/10/8 19:1:7:599 [DisplayControl] Enter ObtainControlHandler1
+2025/10/8 19:1:7:599 [DisplayControl] GetVideoPortCommander
+2025/10/8 19:1:7:599 [DisplayControl] GetUSBHubCommander
+2025/10/8 19:1:7:599 ====== List p_lpo_display_info_video_port, # of devices is ======2
+2025/10/8 19:1:7:599 [DisplayControl] index of p_lpo_display_info_video_port0
+2025/10/8 19:1:7:599 [DisplayControl] Model name from VideoPort = VG2748A
+2025/10/8 19:1:7:599 [DisplayControl] SN from VideoPort = TBC211800028
+2025/10/8 19:1:7:599 [DisplayControl] index of p_lpo_display_info_video_port1
+2025/10/8 19:1:7:599 [DisplayControl] Model name from VideoPort = 
+2025/10/8 19:1:7:599 [DisplayControl] SN from VideoPort = 
+2025/10/8 19:1:7:600 ====== List p_lpo_display_info_rtd_scalar_rts_hub, # of devices is ======0
+2025/10/8 19:1:7:600 [DisplayControl] GetVSRtkHubControlClientListener
+2025/10/8 19:1:7:600 [DisplayControl] max monitor count = 2
+2025/10/8 19:1:7:600 [DisplayControl] index of display_info_vec = 0
+2025/10/8 19:1:7:600 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/10/8 19:1:7:600 [DisplayControl] VideoPortMatchingRule
+2025/10/8 19:1:7:600 [DisplayControl] monitor display_info_model_name = 
+2025/10/8 19:1:7:600 [DisplayControl] monitor video_port_model_name = VG2748A
+2025/10/8 19:1:7:600 [DisplayControl] monitor display_info_sn = 
+2025/10/8 19:1:7:600 [DisplayControl] monitor video_port_sn = TBC211800028
+2025/10/8 19:1:7:600 [DisplayControl] model_name_match = 0
+2025/10/8 19:1:7:600 [DisplayControl] sn_match = 0
+2025/10/8 19:1:7:600 [DisplayControl] video_port is_match = 0
+2025/10/8 19:1:7:600 [DisplayControl] index of display_info_vec = 0
+2025/10/8 19:1:7:600 [DisplayControl] index of p_lpo_display_info_video_port = 1
+2025/10/8 19:1:7:600 [DisplayControl] VideoPortMatchingRule
+2025/10/8 19:1:7:600 [DisplayControl] monitor display_info_model_name = 
+2025/10/8 19:1:7:600 [DisplayControl] monitor video_port_model_name = 
+2025/10/8 19:1:7:600 [DisplayControl] monitor display_info_sn = 
+2025/10/8 19:1:7:600 [DisplayControl] monitor video_port_sn = 
+2025/10/8 19:1:7:600 [DisplayControl] model_name_match = 1
+2025/10/8 19:1:7:600 [DisplayControl] sn_match = 1
+2025/10/8 19:1:7:600 [DisplayControl] video_port is_match = 1
+2025/10/8 19:1:7:600 [DisplayControl] index of display_info_vec = 1
+2025/10/8 19:1:7:600 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/10/8 19:1:7:600 [DisplayControl] VideoPortMatchingRule
+2025/10/8 19:1:7:600 [DisplayControl] monitor display_info_model_name = VG2748A
+2025/10/8 19:1:7:600 [DisplayControl] monitor video_port_model_name = VG2748A
+2025/10/8 19:1:7:600 [DisplayControl] monitor display_info_sn = TBC211800028
+2025/10/8 19:1:7:600 [DisplayControl] monitor video_port_sn = TBC211800028
+2025/10/8 19:1:7:600 [DisplayControl] model_name_match = 1
+2025/10/8 19:1:7:600 [DisplayControl] sn_match = 1
+2025/10/8 19:1:7:600 [DisplayControl] video_port is_match = 1
+2025/10/8 19:1:7:600 [DisplayControl] i = 0
+2025/10/8 19:1:7:602 [DisplayControl] Enter OperationThread::OperationThread()
+2025/10/8 19:1:7:602 [DisplayControl] Enter OperationThread::CreateThread
+2025/10/8 19:1:7:602 [DisplayControl] new DisplayFunctioner
+2025/10/8 19:1:7:602 [DisplayControl] insert displayer_vector
+2025/10/8 19:1:7:602 [DisplayControl] insert modelName_SN_to_Display_map
+2025/10/8 19:1:7:602 [DisplayControl] i = 1
+2025/10/8 19:1:7:602 [DisplayControl] Enter OperationThread::OperationThread()
+2025/10/8 19:1:7:602 [DisplayControl] Enter OperationThread::CreateThread
+2025/10/8 19:1:7:602 [DisplayControl] new DisplayFunctioner
+2025/10/8 19:1:7:602 [DisplayControl] insert displayer_vector
+2025/10/8 19:1:7:602 [DisplayControl] insert modelName_SN_to_Display_map
+2025/10/8 19:1:7:602 [DisplayControl] monitor size = 2
+2025/10/8 19:1:7:602 [DisplayControl] Exit ObtainControlHandler
+2025/10/8 19:2:57:749 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 16
+2025/10/8 19:2:58:60 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 19:3:50:200 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 16
+2025/10/8 19:3:50:519 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 19:4:42:631 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 18
+2025/10/8 19:4:42:943 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 19:5:33:57 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 18
+2025/10/8 19:5:33:365 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 19:6:23:394 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 135
+2025/10/8 19:6:23:715 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 19:7:13:765 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 135
+2025/10/8 19:7:14:74 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 19:8:54:579 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 226
+2025/10/8 19:8:54:894 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 19:9:44:892 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 98
+2025/10/8 19:9:45:403 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 19:9:45:505 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 98
+2025/10/8 19:9:45:822 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 19:10:35:288 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 98
+2025/10/8 19:10:35:599 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 19:10:35:703 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 98
+2025/10/8 19:10:36:17 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 19:11:30:487 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 220
+2025/10/8 19:11:31:925 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 19:11:37:531 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 135
+2025/10/8 19:11:37:735 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:11:38:439 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 16
+2025/10/8 19:11:38:649 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:11:39:351 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 18
+2025/10/8 19:11:39:557 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:11:40:264 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 20
+2025/10/8 19:11:40:473 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:12:41:770 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 220
+2025/10/8 19:12:43:207 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 19:12:48:812 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 135
+2025/10/8 19:12:49:18 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:12:49:723 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 16
+2025/10/8 19:12:49:927 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:12:50:630 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 18
+2025/10/8 19:12:50:835 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:12:51:538 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 20
+2025/10/8 19:12:51:744 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:13:52:911 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 220
+2025/10/8 19:13:53:941 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 19:13:59:544 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 135
+2025/10/8 19:13:59:751 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:14:0:452 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 16
+2025/10/8 19:14:0:664 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:14:1:366 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 18
+2025/10/8 19:14:1:575 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:14:2:286 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 20
+2025/10/8 19:14:2:488 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:15:4:190 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 220
+2025/10/8 19:15:5:631 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 19:15:11:234 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 135
+2025/10/8 19:15:11:441 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:15:12:146 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 16
+2025/10/8 19:15:12:360 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:15:13:69 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 18
+2025/10/8 19:15:13:280 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:15:13:986 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 20
+2025/10/8 19:15:14:191 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:16:15:300 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 220
+2025/10/8 19:16:16:831 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 19:16:22:435 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 135
+2025/10/8 19:16:22:637 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:16:23:342 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 16
+2025/10/8 19:16:23:555 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:16:24:264 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 18
+2025/10/8 19:16:24:472 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:16:25:182 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 20
+2025/10/8 19:16:25:392 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:17:26:388 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 220
+2025/10/8 19:17:27:824 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 19:17:33:429 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 135
+2025/10/8 19:17:33:637 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:17:34:339 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 16
+2025/10/8 19:17:34:549 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:17:35:257 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 18
+2025/10/8 19:17:35:463 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:17:36:164 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 20
+2025/10/8 19:17:36:367 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:18:37:561 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 220
+2025/10/8 19:18:39:3 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 19:18:44:613 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 135
+2025/10/8 19:18:44:823 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:18:45:533 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 16
+2025/10/8 19:18:45:738 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:18:46:441 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 18
+2025/10/8 19:18:46:646 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:18:47:349 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 20
+2025/10/8 19:18:47:559 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:18:48:62 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 20
+2025/10/8 19:18:48:271 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:18:48:775 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 20
+2025/10/8 19:18:48:986 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:18:49:492 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 20
+2025/10/8 19:18:49:702 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:18:50:207 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 20
+2025/10/8 19:18:50:410 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:18:50:910 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 20
+2025/10/8 19:18:51:118 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:18:51:623 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 20
+2025/10/8 19:18:51:832 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:19:48:824 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 220
+2025/10/8 19:19:50:271 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 19:19:55:874 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 135
+2025/10/8 19:19:56:86 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:19:56:792 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 16
+2025/10/8 19:19:57:2 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:19:57:712 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 18
+2025/10/8 19:19:57:922 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:19:58:625 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 20
+2025/10/8 19:19:58:829 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:19:59:334 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 20
+2025/10/8 19:19:59:541 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:20:0:43 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 20
+2025/10/8 19:20:0:251 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:20:0:756 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 20
+2025/10/8 19:20:0:964 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:20:1:469 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 20
+2025/10/8 19:20:1:675 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:20:2:175 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 20
+2025/10/8 19:20:2:385 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:20:2:886 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 20
+2025/10/8 19:20:3:97 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:21:0:136 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 220
+2025/10/8 19:21:1:587 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 19:21:7:191 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 135
+2025/10/8 19:21:7:399 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:21:8:99 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 16
+2025/10/8 19:21:8:307 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:21:9:13 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 18
+2025/10/8 19:21:9:220 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:21:9:926 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 20
+2025/10/8 19:21:10:136 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:22:11:233 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 220
+2025/10/8 19:22:12:672 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 19:22:18:278 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 135
+2025/10/8 19:22:18:482 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:22:19:186 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 16
+2025/10/8 19:22:19:399 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:22:20:105 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 18
+2025/10/8 19:22:20:314 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:22:21:19 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 20
+2025/10/8 19:22:21:222 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:24:33:668 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 220
+2025/10/8 19:24:35:107 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 19:24:40:708 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 135
+2025/10/8 19:24:40:918 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:24:41:627 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 16
+2025/10/8 19:24:41:837 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:24:42:543 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 18
+2025/10/8 19:24:42:753 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:24:43:457 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 20
+2025/10/8 19:24:43:660 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:25:44:985 [DisplayControl] Enter MCCSOtherSet::SetVCP(), vcp code = 220
+2025/10/8 19:25:46:431 [DisplayControl] Exit MCCSOtherSet::SetVCP()
+2025/10/8 19:25:52:40 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 135
+2025/10/8 19:25:52:246 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:25:52:949 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 16
+2025/10/8 19:25:53:157 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:25:53:861 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 18
+2025/10/8 19:25:54:68 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:25:54:774 [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 20
+2025/10/8 19:25:54:979 [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/8 19:28:12:388 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 19:28:12:388 [DisplayControl] Exit OperationThread::ExitThread
+2025/10/8 19:28:12:388 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/10/8 19:28:12:388 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 19:28:12:388 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/8 19:28:12:391 [DisplayControl] Exit OperationThread::ExitThread
+2025/10/8 19:28:12:391 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/10/8 19:28:12:391 [DisplayControl] Enter OperationThread::ExitThread
