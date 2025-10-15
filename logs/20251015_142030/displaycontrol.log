@@ -1,0 +1,93 @@
+2025/10/15 12:37:15.642 [T:0x165de] [DisplayControl] Enter ObtainControlHandler1
+2025/10/15 12:37:15.642 [T:0x165de] [DisplayControl] GetVideoPortCommander
+2025/10/15 12:37:15.642 [T:0x165de] [DisplayControl] GetUSBHubCommander
+2025/10/15 12:37:15.642 [T:0x165de] ====== List p_lpo_display_info_video_port, # of devices is ======3
+2025/10/15 12:37:15.642 [T:0x165de] [DisplayControl] index of p_lpo_display_info_video_port0
+2025/10/15 12:37:15.642 [T:0x165de] [DisplayControl] Model name from VideoPort = VP2458
+2025/10/15 12:37:15.642 [T:0x165de] [DisplayControl] SN from VideoPort = VKR183100011
+2025/10/15 12:37:15.643 [T:0x165de] [DisplayControl] index of p_lpo_display_info_video_port1
+2025/10/15 12:37:15.643 [T:0x165de] [DisplayControl] Model name from VideoPort = VP2458
+2025/10/15 12:37:15.643 [T:0x165de] [DisplayControl] SN from VideoPort = VKR183100011
+2025/10/15 12:37:15.643 [T:0x165de] [DisplayControl] index of p_lpo_display_info_video_port2
+2025/10/15 12:37:15.643 [T:0x165de] [DisplayControl] Model name from VideoPort = Generic PnP Monitor
+2025/10/15 12:37:15.643 [T:0x165de] [DisplayControl] SN from VideoPort = M3NRKD019636107
+2025/10/15 12:37:15.643 [T:0x165de] ====== List p_lpo_display_info_rtd_scalar_rts_hub, # of devices is ======0
+2025/10/15 12:37:15.643 [T:0x165de] [DisplayControl] GetVSRtkHubControlClientListener
+2025/10/15 12:37:15.643 [T:0x165de] [DisplayControl] max monitor count = 3
+2025/10/15 12:37:15.643 [T:0x165de] [DisplayControl] index of display_info_vec = 0
+2025/10/15 12:37:15.643 [T:0x165de] [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/10/15 12:37:15.643 [T:0x165de] [DisplayControl] VideoPortMatchingRule
+2025/10/15 12:37:15.643 [T:0x165de] [DisplayControl] monitor display_info_model_name = VP2458
+2025/10/15 12:37:15.643 [T:0x165de] [DisplayControl] monitor video_port_model_name = VP2458
+2025/10/15 12:37:15.644 [T:0x165de] [DisplayControl] monitor display_info_sn = VKR183100011
+2025/10/15 12:37:15.644 [T:0x165de] [DisplayControl] monitor video_port_sn = VKR183100011
+2025/10/15 12:37:15.644 [T:0x165de] [DisplayControl] model_name_match = 1
+2025/10/15 12:37:15.644 [T:0x165de] [DisplayControl] sn_match = 1
+2025/10/15 12:37:15.644 [T:0x165de] [DisplayControl] video_port is_match = 1
+2025/10/15 12:37:15.644 [T:0x165de] [DisplayControl] index of display_info_vec = 1
+2025/10/15 12:37:15.644 [T:0x165de] [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/10/15 12:37:15.644 [T:0x165de] [DisplayControl] VideoPortMatchingRule
+2025/10/15 12:37:15.644 [T:0x165de] [DisplayControl] monitor display_info_model_name = VP2458
+2025/10/15 12:37:15.644 [T:0x165de] [DisplayControl] monitor video_port_model_name = VP2458
+2025/10/15 12:37:15.644 [T:0x165de] [DisplayControl] monitor display_info_sn = VKR183100011
+2025/10/15 12:37:15.644 [T:0x165de] [DisplayControl] monitor video_port_sn = VKR183100011
+2025/10/15 12:37:15.644 [T:0x165de] [DisplayControl] model_name_match = 1
+2025/10/15 12:37:15.644 [T:0x165de] [DisplayControl] sn_match = 1
+2025/10/15 12:37:15.644 [T:0x165de] [DisplayControl] video_port is_match = 1
+2025/10/15 12:37:15.644 [T:0x165de] [DisplayControl] index of display_info_vec = 2
+2025/10/15 12:37:15.644 [T:0x165de] [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/10/15 12:37:15.645 [T:0x165de] [DisplayControl] VideoPortMatchingRule
+2025/10/15 12:37:15.645 [T:0x165de] [DisplayControl] monitor display_info_model_name = Generic PnP Monitor
+2025/10/15 12:37:15.645 [T:0x165de] [DisplayControl] monitor video_port_model_name = VP2458
+2025/10/15 12:37:15.645 [T:0x165de] [DisplayControl] monitor display_info_sn = 
+2025/10/15 12:37:15.645 [T:0x165de] [DisplayControl] monitor video_port_sn = VKR183100011
+2025/10/15 12:37:15.645 [T:0x165de] [DisplayControl] model_name_match = 0
+2025/10/15 12:37:15.645 [T:0x165de] [DisplayControl] sn_match = 0
+2025/10/15 12:37:15.645 [T:0x165de] [DisplayControl] video_port is_match = 0
+2025/10/15 12:37:15.645 [T:0x165de] [DisplayControl] index of display_info_vec = 2
+2025/10/15 12:37:15.645 [T:0x165de] [DisplayControl] index of p_lpo_display_info_video_port = 1
+2025/10/15 12:37:15.645 [T:0x165de] [DisplayControl] VideoPortMatchingRule
+2025/10/15 12:37:15.645 [T:0x165de] [DisplayControl] monitor display_info_model_name = Generic PnP Monitor
+2025/10/15 12:37:15.645 [T:0x165de] [DisplayControl] monitor video_port_model_name = VP2458
+2025/10/15 12:37:15.645 [T:0x165de] [DisplayControl] monitor display_info_sn = 
+2025/10/15 12:37:15.645 [T:0x165de] [DisplayControl] monitor video_port_sn = VKR183100011
+2025/10/15 12:37:15.645 [T:0x165de] [DisplayControl] model_name_match = 0
+2025/10/15 12:37:15.646 [T:0x165de] [DisplayControl] sn_match = 0
+2025/10/15 12:37:15.646 [T:0x165de] [DisplayControl] video_port is_match = 0
+2025/10/15 12:37:15.646 [T:0x165de] [DisplayControl] index of display_info_vec = 2
+2025/10/15 12:37:15.646 [T:0x165de] [DisplayControl] index of p_lpo_display_info_video_port = 2
+2025/10/15 12:37:15.646 [T:0x165de] [DisplayControl] VideoPortMatchingRule
+2025/10/15 12:37:15.646 [T:0x165de] [DisplayControl] monitor display_info_model_name = Generic PnP Monitor
+2025/10/15 12:37:15.646 [T:0x165de] [DisplayControl] monitor video_port_model_name = Generic PnP Monitor
+2025/10/15 12:37:15.646 [T:0x165de] [DisplayControl] monitor display_info_sn = 
+2025/10/15 12:37:15.646 [T:0x165de] [DisplayControl] monitor video_port_sn = M3NRKD019636107
+2025/10/15 12:37:15.646 [T:0x165de] [DisplayControl] model_name_match = 1
+2025/10/15 12:37:15.646 [T:0x165de] [DisplayControl] sn_match = 0
+2025/10/15 12:37:15.646 [T:0x165de] [DisplayControl] video_port is_match = 0
+2025/10/15 12:37:15.646 [T:0x165de] [DisplayControl] i = 0
+2025/10/15 12:37:15.646 [T:0x165de] [DisplayControl] Enter OperationThread::OperationThread()
+2025/10/15 12:37:15.646 [T:0x165de] [DisplayControl] Enter OperationThread::CreateThread
+2025/10/15 12:37:15.647 [T:0x165de] [DisplayControl] new DisplayFunctioner
+2025/10/15 12:37:15.647 [T:0x165de] [DisplayControl] insert displayer_vector
+2025/10/15 12:37:15.647 [T:0x165de] [DisplayControl] insert modelName_SN_to_Display_map
+2025/10/15 12:37:15.647 [T:0x165de] [DisplayControl] insert device_id_to_Displayer_map_
+2025/10/15 12:37:15.647 [T:0x165de] [DisplayControl] i = 1
+2025/10/15 12:37:15.647 [T:0x165de] [DisplayControl] Enter OperationThread::OperationThread()
+2025/10/15 12:37:15.647 [T:0x165de] [DisplayControl] Enter OperationThread::CreateThread
+2025/10/15 12:37:15.647 [T:0x165de] [DisplayControl] new DisplayFunctioner
+2025/10/15 12:37:15.647 [T:0x165de] [DisplayControl] insert displayer_vector
+2025/10/15 12:37:15.647 [T:0x165de] [DisplayControl] insert modelName_SN_to_Display_map
+2025/10/15 12:37:15.647 [T:0x165de] [DisplayControl] insert device_id_to_Displayer_map_
+2025/10/15 12:37:15.647 [T:0x165de] [DisplayControl] i = 2
+2025/10/15 12:37:15.647 [T:0x165de] [DisplayControl] Enter OperationThread::OperationThread()
+2025/10/15 12:37:15.647 [T:0x165de] [DisplayControl] Enter OperationThread::CreateThread
+2025/10/15 12:37:15.647 [T:0x165de] [DisplayControl] new DisplayFunctioner
+2025/10/15 12:37:15.647 [T:0x165de] [DisplayControl] insert displayer_vector
+2025/10/15 12:37:15.648 [T:0x165de] [DisplayControl] insert modelName_SN_to_Display_map
+2025/10/15 12:37:15.648 [T:0x165de] [DisplayControl] insert device_id_to_Displayer_map_
+2025/10/15 12:37:15.648 [T:0x165de] [DisplayControl] monitor size = 3
+2025/10/15 12:37:15.648 [T:0x165de] [DisplayControl] Exit ObtainControlHandler
+2025/10/15 12:37:15.648 [T:0x165de] [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 16
+2025/10/15 12:37:15.717 [T:0x165de] [DisplayControl] Exit MCCSOtherSet::GetVCP()
+2025/10/15 12:37:15.717 [T:0x165de] [DisplayControl] Enter MCCSOtherSet::GetVCP(), vcp code = 16
+2025/10/15 12:37:15.797 [T:0x165de] [DisplayControl] Exit MCCSOtherSet::GetVCP()
