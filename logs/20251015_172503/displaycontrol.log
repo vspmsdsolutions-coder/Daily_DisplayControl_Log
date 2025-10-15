@@ -1,0 +1,65 @@
+2025/10/15 16:19:38:843 [DisplayControl] Enter ObtainControlHandler1
+2025/10/15 16:19:38:843 [DisplayControl] GetVideoPortCommander
+2025/10/15 16:19:38:843 [DisplayControl] GetUSBHubCommander
+2025/10/15 16:19:38:843 ====== List p_lpo_display_info_video_port, # of devices is ======2
+2025/10/15 16:19:38:843 [DisplayControl] index of p_lpo_display_info_video_port0
+2025/10/15 16:19:38:843 [DisplayControl] Model name from VideoPort = VG2748A
+2025/10/15 16:19:38:843 [DisplayControl] SN from VideoPort = TBC211800028
+2025/10/15 16:19:38:843 [DisplayControl] index of p_lpo_display_info_video_port1
+2025/10/15 16:19:38:843 [DisplayControl] Model name from VideoPort = 
+2025/10/15 16:19:38:843 [DisplayControl] SN from VideoPort = 
+2025/10/15 16:19:38:843 ====== List p_lpo_display_info_rtd_scalar_rts_hub, # of devices is ======0
+2025/10/15 16:19:38:843 [DisplayControl] GetVSRtkHubControlClientListener
+2025/10/15 16:19:38:843 [DisplayControl] max monitor count = 2
+2025/10/15 16:19:38:843 [DisplayControl] index of display_info_vec = 0
+2025/10/15 16:19:38:843 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/10/15 16:19:38:843 [DisplayControl] VideoPortMatchingRule
+2025/10/15 16:19:38:843 [DisplayControl] monitor display_info_model_name = 
+2025/10/15 16:19:38:844 [DisplayControl] monitor video_port_model_name = VG2748A
+2025/10/15 16:19:38:844 [DisplayControl] monitor display_info_sn = 
+2025/10/15 16:19:38:844 [DisplayControl] monitor video_port_sn = TBC211800028
+2025/10/15 16:19:38:844 [DisplayControl] model_name_match = 0
+2025/10/15 16:19:38:844 [DisplayControl] sn_match = 0
+2025/10/15 16:19:38:844 [DisplayControl] video_port is_match = 0
+2025/10/15 16:19:38:844 [DisplayControl] index of display_info_vec = 0
+2025/10/15 16:19:38:844 [DisplayControl] index of p_lpo_display_info_video_port = 1
+2025/10/15 16:19:38:844 [DisplayControl] VideoPortMatchingRule
+2025/10/15 16:19:38:844 [DisplayControl] monitor display_info_model_name = 
+2025/10/15 16:19:38:844 [DisplayControl] monitor video_port_model_name = 
+2025/10/15 16:19:38:844 [DisplayControl] monitor display_info_sn = 
+2025/10/15 16:19:38:844 [DisplayControl] monitor video_port_sn = 
+2025/10/15 16:19:38:844 [DisplayControl] model_name_match = 1
+2025/10/15 16:19:38:844 [DisplayControl] sn_match = 1
+2025/10/15 16:19:38:844 [DisplayControl] video_port is_match = 1
+2025/10/15 16:19:38:844 [DisplayControl] index of display_info_vec = 1
+2025/10/15 16:19:38:844 [DisplayControl] index of p_lpo_display_info_video_port = 0
+2025/10/15 16:19:38:844 [DisplayControl] VideoPortMatchingRule
+2025/10/15 16:19:38:844 [DisplayControl] monitor display_info_model_name = VG2748A
+2025/10/15 16:19:38:844 [DisplayControl] monitor video_port_model_name = VG2748A
+2025/10/15 16:19:38:844 [DisplayControl] monitor display_info_sn = TBC211800028
+2025/10/15 16:19:38:844 [DisplayControl] monitor video_port_sn = TBC211800028
+2025/10/15 16:19:38:844 [DisplayControl] model_name_match = 1
+2025/10/15 16:19:38:844 [DisplayControl] sn_match = 1
+2025/10/15 16:19:38:844 [DisplayControl] video_port is_match = 1
+2025/10/15 16:19:38:844 [DisplayControl] i = 0
+2025/10/15 16:19:38:847 [DisplayControl] Enter OperationThread::OperationThread()
+2025/10/15 16:19:38:847 [DisplayControl] Enter OperationThread::CreateThread
+2025/10/15 16:19:38:847 [DisplayControl] new DisplayFunctioner
+2025/10/15 16:19:38:847 [DisplayControl] insert displayer_vector
+2025/10/15 16:19:38:847 [DisplayControl] insert modelName_SN_to_Display_map
+2025/10/15 16:19:38:847 [DisplayControl] i = 1
+2025/10/15 16:19:38:847 [DisplayControl] Enter OperationThread::OperationThread()
+2025/10/15 16:19:38:847 [DisplayControl] Enter OperationThread::CreateThread
+2025/10/15 16:19:38:847 [DisplayControl] new DisplayFunctioner
+2025/10/15 16:19:38:847 [DisplayControl] insert displayer_vector
+2025/10/15 16:19:38:847 [DisplayControl] insert modelName_SN_to_Display_map
+2025/10/15 16:19:38:847 [DisplayControl] monitor size = 2
+2025/10/15 16:19:38:847 [DisplayControl] Exit ObtainControlHandler
+2025/10/15 16:19:48:868 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/15 16:19:48:869 [DisplayControl] Exit OperationThread::ExitThread
+2025/10/15 16:19:48:869 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/10/15 16:19:48:869 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/15 16:19:48:869 [DisplayControl] Enter OperationThread::ExitThread
+2025/10/15 16:19:48:869 [DisplayControl] Exit OperationThread::ExitThread
+2025/10/15 16:19:48:869 [DisplayControl] Enter OperationThread::~OperationThread()
+2025/10/15 16:19:48:869 [DisplayControl] Enter OperationThread::ExitThread
